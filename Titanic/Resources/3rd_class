@@ -1,0 +1,711 @@
+,0,1,2,3,4
+0,Surname,First Names,Age,Boarded,Survivor (S) or Victim (†)
+1,Ab ī-Al-Munà,Mr Nās īf Qāsim,26,Cherbourg,S
+2,Abbing,Mr Anthony,42,Southampton,†
+3,Abbott,Mrs Rhoda Mary “Rosa”,39,Southampton,S
+4,Abbott,Mr Rossmore Edward,16,Southampton,†
+5,Abbott,Mr Eugene Joseph,14,Southampton,†
+6,Abelseth,Miss Karen Marie,16,Southampton,S
+7,Abelseth,Mr Olaus Jørgensen,25,Southampton,S
+8,Abrahamsson,Mr Abraham August Johannes,20,Southampton,S
+9,Ådahl,Mr Mauritz,30,Southampton,†
+10,Adams,Mr John,26,Southampton,†
+11,Ahlin,Mrs Johanna Persdotter,40,Southampton,†
+12,Aks,Mrs Leah,18,Southampton,S
+13,Aks,Master Frank Philip,10m,Southampton,S
+14,Al-Munà,Mr Far īd Husayn Qāsim,18,Cherbourg,†
+15,Alexander,Mr William Albert,23,Southampton,†
+16,Alhomäki,Mr Ilmari Rudolf,19,Southampton,†
+17,Ali,Mr Ahmed,24,Southampton,†
+18,Ali,Mr William,25,Southampton,†
+19,Allen,Mr William Henry,38,Southampton,†
+20,Allum,Mr Owen George,15,Southampton,†
+21,Andersen,Mr Albert Karvin,33,Southampton,†
+22,Andersen-Jensen,Miss Carla Christine Nielsine,19,Southampton,S
+23,Andersson,Miss Erna Alexandra,17,Southampton,S
+24,Andersson,Mr Johan Samuel,26,Southampton,†
+25,Andersson,Miss Ida Augusta Margareta,38,Southampton,†
+26,Andersson,Mr Anders Johan,39,Southampton,†
+27,Andersson,Mrs Alfrida Konstantia Brogren,39,Southampton,†
+28,Andersson,Miss Sigrid Elisabeth,11,Southampton,†
+29,Andersson,Miss Ingeborg Constanzia,9,Southampton,†
+30,Andersson,Miss Ebba Iris Alfrida,6,Southampton,†
+31,Andersson,Master Sigvard Harald Elias,4,Southampton,†
+32,Andersson,Miss Ellis Anna Maria,2,Southampton,†
+33,Andreasson,Mr Pål Edvin,20,Southampton,†
+34,Angheloff,Mr Minko,26,Southampton,†
+35,Arnold-Franchi,Mr Josef,25,Southampton,†
+36,Arnold-Franchi,Mrs Josefine,18,Southampton,†
+37,Aronsson,Mr Ernst Axel Algot,24,Southampton,†
+38,Asim,Mr Adola,35,Southampton,†
+39,Asplund,Master Edvin Rojj Felix,3,Southampton,S
+40,Asplund,Mr Johan Charles,23,Southampton,S
+41,Asplund,Mr Carl Oscar Vilhelm Gustafsson,40,Southampton,†
+42,Asplund,Mrs Selma Augusta Emilia,38,Southampton,S
+43,Asplund,Master Carl Edgar,5,Southampton,†
+44,Asplund,Master Filip Oscar,13,Southampton,†
+45,Asplund,Master Clarence Gustaf Hugo,9,Southampton,†
+46,Asplund,Miss Lillian Gertrud,5,Southampton,S
+47,Assaf,Mrs Mariana,45,Cherbourg,S
+48,Assam,Mr Ali,23,Southampton,†
+49,Attala,Mr Sleiman,27,Cherbourg,†
+50,Attalah,Miss Malake,17,Cherbourg,†
+51,Augustsson,Mr Albert,23,Southampton,†
+52,Ayoub Daher,Miss Banoura,15,Cherbourg,S
+53,Backström,Mr Karl Alfred,32,Southampton,†
+54,Backström,Mrs Maria Mathilda,33,Southampton,†
+55,Baclini,Mrs Latifa,24,Cherbourg,S
+56,Baclini,Miss Marie Catherine,5,Cherbourg,S
+57,Baclini,Miss Eugenie,3,Cherbourg,S
+58,Baclini,Miss Helene Barbara,9m,Cherbourg,S
+59,Badman,Miss Emily Louisa,18,Southampton,S
+60,Badt,Mr Mohamed,40,Cherbourg,†
+61,Balkic,Mr Cerin,26,Southampton,†
+62,Banski,Mrs Mara,31,Southampton,†
+63,Barbara,Mrs Catherine David,45,Cherbourg,†
+64,Barbara,Miss Saiide,18,Cherbourg,†
+65,Barry,Miss Julia,26,Queenstown,†
+66,Barton,Mr David John,22,Southampton,†
+67,Batoshev,Mr Hristo Lalev,23,Southampton,†
+68,Būlus,Mrs Sultānah,40,Cherbourg,†
+69,Būlus,Miss Nūr-al-Ayn,7,Cherbourg,†
+70,Būlus,Master Akar,9,Cherbourg,†
+71,Beavan,Mr William Thomas,20,Southampton,†
+72,Bengtsson,Mr Johan Viktor,26,Southampton,†
+73,Berglund,Mr Karl Ivar Sven,22,Southampton,†
+74,Bing,Mr Lee,32,Southampton,S
+75,Birkeland,Mr Hans Martin Monsen,21,Southampton,†
+76,Björklund,Mr Ernst Herbert,18,Southampton,†
+77,Bostandyeff,Mr Guentcho,26,Southampton,†
+78,Bourke,Mr John,42,Queenstown,†
+79,Bourke,Mrs Catherine,32,Queenstown,†
+80,Bourke,Miss Mary,40,Queenstown,†
+81,Bowen,Mr David John “Dai”,26,Southampton,†
+82,Bradley,Miss Bridget Delia,22,Queenstown,S
+83,Braf,Miss Elin Ester Maria,20,Southampton,†
+84,Braund,Mr Lewis Richard,29,Southampton,†
+85,Braund,Mr Owen Harris,22,Southampton,†
+86,Brobäck,Mr Karl Rudolf,22,Southampton,†
+87,Brocklebank,Mr William Alfred,35,Southampton,†
+88,Buckley,Mr Daniel,21,Queenstown,S
+89,Buckley,Miss Katherine,22,Queenstown,†
+90,Burke,Mr Jeremiah,19,Queenstown,†
+91,Burns,Miss Mary Delia,17,Queenstown,†
+92,Butrus-Ka’W ī,Mr Tannūs,21,Cherbourg,†
+93,Cacic,Mr Jego Grga,18,Southampton,†
+94,Cacic,Mr Luka,38,Southampton,†
+95,Cacic,Miss Marija,30,Southampton,†
+96,Cacic,Miss Manda,21,Southampton,†
+97,Calic,Mr Petar,17,Southampton,†
+98,Calic,Mr Jovo,17,Southampton,†
+99,Canavan,Miss Mary,22,Queenstown,†
+100,Canavan,Mr Patrick,21,Queenstown,†
+101,Cann,Mr Ernest,21,Southampton,†
+102,Caram,Mr Joseph,28,Cherbourg,†
+103,Caram,Mrs Maria Elias,18,Cherbourg,†
+104,Carlsson,Mr Carl Robert,24,Southampton,†
+105,Carlsson,Mr August Sigfrid,28,Southampton,†
+106,Carr,Miss Jane,45,Queenstown,†
+107,Carver,Mr Alfred John,28,Southampton,†
+108,Celotti,Mr Francesco,24,Southampton,†
+109,Charters,Mr David,20,Queenstown,†
+110,Chip,Mr Chang,32,Southampton,S
+111,Christmann,Mr Emil,29,Southampton,†
+112,Chronopoulos,Mr Apostolos M.,26,Cherbourg,†
+113,Chronopoulos,Mr Dimitrios M.,21,Cherbourg,†
+114,Coelho,Mr Domingos Fernandeo,20,Southampton,†
+115,Cohen,Mr Gurshon,18,Southampton,S
+116,Colbert,Mr Patrick,24,Queenstown,†
+117,Coleff,Mr Satio,24,Southampton,†
+118,Coltcheff,Mr Peju,36,Southampton,†
+119,Conlin,Mr Thomas Henry,31,Queenstown,†
+120,Connaughton,Mr Michael,40,Queenstown,†
+121,Connolly,Miss Catherine,23,Queenstown,S
+122,Connolly,Miss Kate,41,Queenstown,†
+123,Connors,Mr Patrick,66,Queenstown,†
+124,Cook,Mr Jacob,43,Southampton,†
+125,Cor,Mr Bartol,35,Southampton,†
+126,Cor,Mr Ivan,27,Southampton,†
+127,Cor,Mr Liudevit,19,Southampton,†
+128,Cornblatt,Mr Harris,30,Southampton,†
+129,Corr,Miss Ellen,16,Queenstown,S
+130,Coutts,Mrs Winnie,36,Southampton,S
+131,Coutts,Master William Loch,9,Southampton,S
+132,Coutts,Master Neville Leslie,3,Southampton,S
+133,Coxon,Mr Daniel,59,Southampton,†
+134,Crease,Mr Ernest James,19,Southampton,†
+135,Cribb,Mr John Hatfield,44,Southampton,†
+136,Cribb,Miss Laura Mae,16,Southampton,S
+137,Culumovic,Mr Jeso,17,Southampton,†
+138,Daher,Mr Tannous,28,Cherbourg,†
+139,Dahl,Mr Charles Edward,45,Southampton,S
+140,Dahlberg,Miss Gerda Ulrika,22,Southampton,†
+141,Dakic,Mr Branko,19,Southampton,†
+142,Daly,Miss Margaret Marcella,33,Queenstown,S
+143,Daly,Mr Eugene Patrick,29,Queenstown,S
+144,Danbom,Mr Ernst Gilbert,34,Southampton,†
+145,Danbom,Mrs Anna Sigrid Maria,28,Southampton,†
+146,Danbom,Master Gilbert Sigvard Emanuel,4m,Southampton,†
+147,Danoff,Mr Yoto,27,Southampton,†
+148,Davies,Mr Evan,22,Southampton,†
+149,Davies,Mr Alfred James,24,Southampton,†
+150,Davies,Mr John,21,Southampton,†
+151,Davies,Mr Joseph,17,Southampton,†
+152,Davison,Mr Thomas Henry,32,Southampton,†
+153,Davison,Mrs Mary Elizabeth,34,Southampton,S
+154,De Messemaeker,Mr Guillaume Joseph,36,Southampton,S
+155,De Messemaeker,Mrs Anna,36,Southampton,S
+156,De Mulder,Mr Theodoor,30,Southampton,S
+157,De Pelsmaeker,Mr Alfons,16,Southampton,†
+158,Dean,Mr Bertram Frank,25,Southampton,†
+159,Dean,Mrs Eva Georgetta,32,Southampton,S
+160,Dean,Master Bertram Vere,1,Southampton,S
+161,Dean,Miss Elizabeth Gladys “Millvina”,2m,Southampton,S
+162,Delalic,Mr Redjo,25,Southampton,†
+163,Denkoff,Mr Mitto,30,Southampton,†
+164,Dennis,Mr Samuel,22,Southampton,†
+165,Dennis,Mr William,26,Southampton,†
+166,Devaney,Miss Margaret Delia,19,Queenstown,S
+167,Dika,Mr Mirko,17,Southampton,†
+168,Dimic,Mr Jovan,42,Southampton,†
+169,Dintcheff,Mr Valtcho,43,Southampton,†
+170,Donohoe,Miss Bridget,21,Queenstown,†
+171,Dooly,Mr Patrick,38,Queenstown,†
+172,Dorking,Mr Edward Arthur,18,Southampton,S
+173,Dougherty,Mr William John,22,Queenstown,†
+174,Dowdell,Miss Elizabeth,31,Southampton,S
+175,Doyle,Miss Elizabeth,28,Queenstown,†
+176,Drazenovic,Mr Jozef,33,Cherbourg,†
+177,Driscoll,Miss Bridget,27,Queenstown,S
+178,Dropkin,Miss Jennie,24,Southampton,†
+179,Duquemin,Mr Joseph Pierre,24,Southampton,S
+180,Dwan,Mr Frank,65,Queenstown,†
+181,Dyker,Mr Adolf Fredrik,23,Southampton,†
+182,Dyker,Mrs Anna Elisabeth Judith,22,Southampton,S
+183,Edvardsson,Mr Gustaf Hjalmar,18,Southampton,†
+184,Eklund,Mr Hans Linus,16,Southampton,†
+185,Ekström,Mr Amandus,45,Southampton,†
+186,Elias,Mr Dibo,29,Cherbourg,†
+187,Elias,Mr Joseph jr.,15,Cherbourg,†
+188,Elias Nasrallah,Mr Tannous,22,Cherbourg,†
+189,Elsbury,Mr William James,48,Southampton,†
+190,Emanuel,Miss Virginia Ethel,5,Southampton,S
+191,Estanislau,Mr Manuel Gonçalves,37,Southampton,†
+192,Everett,Mr Thomas James,38,Southampton,†
+193,Fardon,Mr Charles Richard,45,Southampton,†
+194,Farrell,Mr James,25,Queenstown,†
+195,Finoli,Mr Luigi,34,Southampton,S
+196,Fischer,Mr Eberhard Thelander,18,Southampton,†
+197,Fleming,Miss Honor,22,Queenstown,†
+198,Flynn,Mr James,28,Queenstown,†
+199,Flynn,Mr John,42,Queenstown,†
+200,Foley,Mr Joseph,19,Queenstown,†
+201,Foley,Mr William,20,Queenstown,†
+202,Foo,Mr Choong,32,Southampton,S
+203,Ford,Mr Arthur,22,Southampton,†
+204,Ford,Mrs Margaret Ann Watson,54,Southampton,†
+205,Ford,Miss Dollina Margaret,20,Southampton,†
+206,Ford,Mr Edward Watson,18,Southampton,†
+207,Ford,Mr William Neal Thomas,16,Southampton,†
+208,Ford,Miss Robina Maggie,7,Southampton,†
+209,Fox,Mr Patrick,28,Queenstown,†
+210,Gallagher,Mr Martin,29,Queenstown,†
+211,Garfirth,Mr John,21,Southampton,†
+212,George/Joseph,Mrs Shawneene,38,Cherbourg,S
+213,Gerios Thamah,Mr Assaf,21,Cherbourg,†
+214,Gheorgheff,Mr Stanio,NK,Cherbourg,†
+215,Gilinski,Mr Eliezer,22,Southampton,†
+216,Gilnagh,Miss Katherine,17,Queenstown,S
+217,Glynn,Miss Mary Agatha,19,Queenstown,S
+218,Goldsmith,Mr Frank John,33,Southampton,†
+219,Goldsmith,Mrs Emily Alice,31,Southampton,S
+220,Goldsmith,Master Frank John William,9,Southampton,S
+221,Goldsmith,Mr Nathan,41,Southampton,†
+222,Goodwin,Mr Frederick Joseph,42,Southampton,†
+223,Goodwin,Mrs Augusta,43,Southampton,†
+224,Goodwin,Miss Lillian Amy,16,Southampton,†
+225,Goodwin,Mr Charles Edward,14,Southampton,†
+226,Goodwin,Master William Frederick,11,Southampton,†
+227,Goodwin,Miss Jessie Allis,10,Southampton,†
+228,Goodwin,Master Harold Victor,9,Southampton,†
+229,Goodwin,Master Sidney Leslie,1,Southampton,†
+230,Grønnestad,Mr Daniel Danielsen,32,Southampton,†
+231,Green,Mr George,40,Southampton,†
+232,Guest,Mr Robert,23,Southampton,†
+233,Gustafsson,Mr Karl Gideon,19,Southampton,†
+234,Gustafsson,Mr Alfred Ossian,19,Southampton,†
+235,Gustafsson,Mr Anders Vilhelm,37,Southampton,†
+236,Gustafsson,Mr Johan Birger,28,Southampton,†
+237,Haas,Miss Aloisia,24,Southampton,†
+238,Hagland,Mr Ingvald Olai Olsen,28,Southampton,†
+239,Hagland,Mr Konrad Mathias Reiersen,19,Southampton,†
+240,Hakkarainen,Mr Pekka Pietari,28,Southampton,†
+241,Hakkarainen,Mrs Elin Matilda,24,Southampton,S
+242,Hampe,Mr Léon Jérome,19,Southampton,†
+243,Hanna,Mr Boulos,18,Cherbourg,†
+244,Hanna,Mr Mansour,35,Cherbourg,†
+245,Hannah,Mr Borak,27,Cherbourg,S
+246,Hansen,Mr Claus Peter,41,Southampton,†
+247,Hansen,Mrs Jennie Louise,45,Southampton,S
+248,Hansen,Mr Henry Damsgaard,21,Southampton,†
+249,Hansen,Mr Henrik Juul,26,Southampton,†
+250,Hargadon,Miss Catherine,17,Queenstown,†
+251,Harknett,Miss Alice Phoebe,21,Southampton,†
+252,Hart,Mr Henry,28,Queenstown,†
+253,Healy,Miss Honor,29,Queenstown,S
+254,Hedman,Mr Oskar Arvid,27,Southampton,S
+255,Hee,Mr Ling,24,Southampton,S
+256,Hegarty,Miss Hanora,18,Queenstown,†
+257,Heikkinen,Miss Laina,26,Southampton,†
+258,Heininen,Miss Wendla Maria,23,Southampton,†
+259,Hellström,Miss Hilda Maria,22,Southampton,S
+260,Hendekovic,Mr Ignjac,28,Southampton,†
+261,Henriksson,Miss Jenny Lovisa,28,Southampton,†
+262,Henry,Miss Bridget Delia,21,Queenstown,†
+263,Hirvonen,Mrs Helga Elisabeth Lindqvist,22,Southampton,S
+264,Hirvonen,Miss Hildur Elisabeth,2,Southampton,S
+265,Holm,Mr John Fredrik Alexander,43,Southampton,†
+266,Holthen,Mr Johan Martin,28,Southampton,†
+267,Honkanen,Miss Eliina,27,Southampton,†
+268,Horgan,Mr John,22,Queenstown,†
+269,Howard,Miss May Elizabeth,26,Southampton,S
+270,Humblen,Mr Adolf Mathias Nicolai Olsen,42,Southampton,†
+271,Hyman,Mr Abraham Joseph,34,Southampton,S
+272,Ibrahim Shawah,Mr Yousseff,33,Cherbourg,†
+273,Ibrāhīm,Mrs Sāfiyah,18,Cherbourg,S
+274,Ibrāhīm,Mr Husayn Mahmūd Husayn,11,Cherbourg,†
+275,Ilieff,Mr Ylio,32,Southampton,†
+276,Ilmakangas,Miss Ida Livija,27,Southampton,†
+277,Ilmakangas,Miss Pieta Sofia,25,Southampton,†
+278,Ivanoff,Mr Kanio,20,Southampton,†
+279,Jabbur (Zabour),Miss Thamine,19,Cherbourg,†
+280,Jabbur (Zabour),Miss Hileni,16,Cherbourg,†
+281,Jalševac,Mr Ivan,29,Cherbourg,S
+282,Jansson,Mr Carl Olof,21,Southampton,S
+283,Jardim,Mr José Neto,21,Southampton,†
+284,Jönsson,Mr Nils Hilding,27,Southampton,†
+285,Jensen,Mr Hans Peder,20,Southampton,†
+286,Jensen,Mr Svend Lauritz,17,Southampton,†
+287,Jensen,Mr Niels Rasmus,48,Southampton,†
+288,Jermyn,Miss Annie Jane,26,Queenstown,S
+289,Johannesen,Mr Bernt Johannes,29,Southampton,S
+290,Johanson,Mr Jakob Alfred,34,Southampton,†
+291,Johansson,Mr Nils,29,Southampton,†
+292,Johansson,Mr Erik,22,Southampton,†
+293,Johansson,Mr Gustaf Joel,33,Southampton,†
+294,Johansson,Mr Karl Johan,31,Southampton,†
+295,Johansson Palmquist,Mr Oskar Leander,26,Southampton,S
+296,Johnson,Mr August,49,Southampton,†
+297,Johnson,Mr William Cahoone Jr.,19,Southampton,†
+298,Johnson,Mr Malkolm Joackim,33,Southampton,†
+299,Johnson,Mrs Elisabeth Vilhelmina,26,Southampton,S
+300,Johnson,Master Harold Theodor,4,Southampton,S
+301,Johnson,Miss Eleanor Ileen,1,Southampton,S
+302,Johnston,Mr Andrew Emslie,35,Southampton,†
+303,Johnston,Mrs Eliza,36,Southampton,†
+304,Johnston,Master William Andrew,8,Southampton,†
+305,Johnston,Miss Catherine Nellie,7,Southampton,†
+306,Jonkoff,Mr Lalio,23,Southampton,†
+307,Jonsson,Mr Carl,25,Southampton,S
+308,Joseph (Shahin),Mr Elias,39,Cherbourg,†
+309,Jussila,Miss Katriina,20,Southampton,†
+310,Jussila,Miss Mari Aina,21,Southampton,†
+311,Jussila,Mr Eiriik,32,Southampton,S
+312,Kallio,Mr Nikolai Erland,17,Southampton,†
+313,Kalvik,Mr Johannes Halvorsen,21,Southampton,†
+314,Karajic,Mr Milan,30,Southampton,†
+315,Karlsson,Mr Einar Gervasius,21,Southampton,S
+316,Karlsson,Mr Julius Konrad Eugen,33,Southampton,†
+317,Karlsson,Mr Nils August,22,Southampton,†
+318,Karun,Mr Franz,39,Cherbourg,S
+319,Karun,Miss Manca,4,Cherbourg,S
+320,Katavelos,Mr Vasilios G.,19,Cherbourg,†
+321,Keane,Mr Andrew,23,Queenstown,†
+322,Keefe,Mr Arthur,39,Southampton,†
+323,Kelly,Mr James,19,Southampton,†
+324,Kelly,Mr James,44,Queenstown,†
+325,Kelly,Miss Anna Katherine,20,Queenstown,S
+326,Kelly,Miss Mary,22,Queenstown,S
+327,Kennedy,Mr John,24,Queenstown,†
+328,Khalil,Mr Betros,25,Cherbourg,†
+329,Khalil,Mrs Zahie,20,Cherbourg,†
+330,Kiernan,Mr John Joseph,25,Queenstown,†
+331,Kiernan,Mr Philip,22,Queenstown,†
+332,Kilgannon,Mr Thomas,22,Queenstown,†
+333,Kink,Mr Anton,29,Southampton,S
+334,Kink,Miss Maria,22,Southampton,†
+335,Kink,Mr Vincenz,26,Southampton,†
+336,Kink-Heilmann,Mrs Luise,26,Southampton,S
+337,Kink-Heilmann,Miss Luise Gretchen,4,Southampton,S
+338,Klasén,Mr Klas Albin,18,Southampton,†
+339,Klasén,Miss Gertrud Emilia,1,Southampton,†
+340,Klasén,Mrs Hulda Kristina Eugenia,36,Southampton,†
+341,Kraeff,Mr Theodor,NK,Cherbourg,†
+342,Krekorian,Mr Neshan,25,Cherbourg,S
+343,Kutscher (Lithman),Mr Simon,26,Southampton,†
+344,Lahhūd Ishaq Mu’Awwad,MrSark īs,30,Cherbourg,†
+345,Laitinen,Miss Kristina Sofia,37,Southampton,†
+346,Lam,Mr Ali,38,Southampton,S
+347,Lam,Mr Len,23,Southampton,†
+348,Landergren,Miss Aurora Adelia,22,Southampton,S
+349,Lane,Mr Patrick,16,Queenstown,†
+350,Lang,Mr Fang,32,Southampton,S
+351,Larsson,Mr August Viktor,29,Southampton,†
+352,Larsson,Mr Bengt Edvin,29,Southampton,†
+353,Larsson,Mr Edvard,22,Southampton,†
+354,Lefebvre,Mrs Frances Marie,40,Southampton,†
+355,Lefebvre,Master Henry,5,Southampton,†
+356,Lefebvre,Miss Ida,3,Southampton,†
+357,Lefebvre,Miss Jeannie,8,Southampton,†
+358,Lefebvre,Miss Mathilde,12,Southampton,†
+359,Leinonen,Mr Antti Gustaf,32,Southampton,†
+360,Lennon,Mr Denis,20,Queenstown,†
+361,Lester,Mr James,26,Southampton,†
+362,Lievens,Mr René Aimé,24,Southampton,†
+363,Lindahl,Miss Agda Thorilda Viktoria,25,Southampton,†
+364,Lindblom,Miss Augusta Charlotta,45,Southampton,†
+365,Lindell,Mr Edvard Bengtsson,36,Southampton,S
+366,Lindell,Mrs Elin Gerda,30,Southampton,S
+367,Lindqvist,Mr Eino William,20,Southampton,S
+368,Linehan,Mr Michael,21,Queenstown,†
+369,Ling,Mr Lee,28,Southampton,†
+370,Linhart,Mr Wenzel,27,Southampton,†
+371,Livshin,Mr David,25,Southampton,S
+372,Lobb,Mr William Arthur,30,Southampton,†
+373,Lobb,Mrs Cordelia K.,26,Southampton,†
+374,Lockyer,Mr Edward Thomas,19,Southampton,†
+375,Lovell,Mr John Hall,20,Southampton,†
+376,Lulic,Mr Nikola,29,Southampton,S
+377,Lundahl,Mr Johan Svensson,51,Southampton,†
+378,Lundin,Miss Olga Elida,23,Southampton,S
+379,Lundström,Mr Thure Edvin,32,Southampton,S
+380,Lymperopoulus,Mr Panagiotis K.,30,Cherbourg,†
+381,Lyntakoff,Mr Stanko,44,Southampton,†
+382,Mackay,Mr George William,20,Southampton,†
+383,Madigan,Miss Margaret,21,Queenstown,S
+384,Madsen,Mr Fridtjof Arne,24,Southampton,S
+385,Mahon,Miss Bridget Delia,20,Queenstown,†
+386,Maisner,Mr Simon,34,Southampton,†
+387,Mangan,Miss Mary,32,Queenstown,†
+388,Mannion,Miss Margaret,28,Queenstown,S
+389,Mardirosian,Mr Sarkis,25,Cherbourg,†
+390,Marinko,Mr Dmitri,23,Southampton,†
+391,Markoff,Mr Marin,35,Southampton,†
+392,Markun,Mr Johann,33,Cherbourg,†
+393,Matinoff,Mr Nicola,30,Cherbourg,†
+394,Māmā,Mr Hannā Mikā’ īl,18,Cherbourg,S
+395,Mäenpää,Mr Matti Alexanteri,22,Southampton,†
+396,Mäkinen,Mr Kalle Edvard,29,Southampton,†
+397,McCarthy,Miss Catherine,24,Queenstown,S
+398,McCormack,Mr Thomas Joseph,19,Queenstown,†
+399,McCoy,Miss Agnes,29,Queenstown,S
+400,McCoy,Miss Alice,26,Queenstown,S
+401,McCoy,Mr Bernard,24,Queenstown,S
+402,McDermott,Miss Bridget Delia,31,Queenstown,S
+403,McEvoy,Mr Michael,19,Queenstown,†
+404,McGovern,Ms Mary,22,Queenstown,S
+405,McGowan,Miss Catherine,42,Queenstown,†
+406,McGowan,Miss Anna Louise,17,Queenstown,†
+407,McMahon,Mr Martin,19,Queenstown,†
+408,McNamee,Mr Neal,27,Southampton,†
+409,McNamee,Mrs Eileen,19,Southampton,†
+410,McNeill,Miss Bridget,32,Queenstown,†
+411,Meanwell,Mrs Marian,62,Southampton,†
+412,Meehan,Mr John,22,Queenstown,†
+413,Meek,Mrs Annie Louisa,31,Southampton,†
+414,Meo (Martino),Mr Alfonzo,48,Southampton,†
+415,Mernagh,Mr Robert,28,Queenstown,†
+416,Midtsjø,Mr Karl Albert,21,Southampton,S
+417,Mihoff,Mr Stoytcho,28,Southampton,†
+418,Miles,Mr Frank,23,Southampton,†
+419,Mineff,Mr Ivan,24,Southampton,†
+420,Minkoff,Mr Lazar,21,Southampton,†
+421,Mitkoff,Mr Mito,23,Southampton,†
+422,Mockler,Miss Ellen Mary,23,Queenstown,S
+423,Moen,Mr Sigurd Hansen,27,Southampton,†
+424,Moor,Mrs Beila,29,Southampton,S
+425,Moor,Master Meier,7,Southampton,S
+426,Moore,Mr Leonard Charles,19,Southampton,†
+427,Moran,Miss Bridget,28,Queenstown,S
+428,Moran,Mr Daniel J.,27,Queenstown,†
+429,Morley,Mr William,34,Southampton,†
+430,Morrow,Mr Thomas Rowan,30,Queenstown,†
+431,Moss,Mr Albert Johan,29,Southampton,S
+432,Moussa,Mrs Mantoura Boulos,35,Cherbourg,†
+433,Moutal,Mr Rahamin Haim,28,Southampton,†
+434,Mubārik,Mrs Am īnah,24,Cherbourg,S
+435,Mubārik,Master Jirjis,7,Cherbourg,S
+436,Mubārik,Master Hal īm,4,Cherbourg,S
+437,Mullin,Miss Catherine,21,Queenstown,S
+438,Mullin,Miss Mary (Lennon),18,Queenstown,†
+439,Mulvihill,Miss Bridget Elizabeth,25,Queenstown,S
+440,Murdlin,Mr Joseph,22,Southampton,†
+441,Murphy,Miss Nora,34,Queenstown,S
+442,Murphy,Miss Margaret Jane,25,Queenstown,S
+443,Murphy,Miss Catherine,18,Queenstown,S
+444,Muslamān ī,Mrs Fat īmah Muhammad,22,Cherbourg,S
+445,Myhrman,Mr Pehr Fabian Oliver Malkolm,18,Southampton,†
+446,Naidenoff,Mr Penko,22,Southampton,†
+447,Najib Kiamie,Miss Adele,15,Cherbourg,S
+448,Nakhli,Mr Toufik,17,Cherbourg,†
+449,Nakid,Mr Sahid,20,Cherbourg,S
+450,Nakid,Mrs Waika,19,Cherbourg,S
+451,Nakid,Miss Maria,1,Cherbourg,S
+452,Nancarrow,Mr William Henry,36,Southampton,†
+453,Nankoff,Mr Minko,32,Southampton,†
+454,Nasr ‘Almā,Mr Mustafà,20,Cherbourg,†
+455,Nassr Rizq,Mr Saade,20,Cherbourg,†
+456,Naughton,Miss Hannah,21,Queenstown,†
+457,N īqūla Yārid,Miss Jamilah,14,Cherbourg,S
+458,N īqūla Yārid,Master Ilyās,11,Cherbourg,S
+459,Nenkov,Mr Hristo,22,Southampton,†
+460,Nieminen,Miss Manta Josefina,29,Southampton,†
+461,Niklasson,Mr Samuel,28,Southampton,†
+462,Nilsson,Mr August Ferdinand,21,Southampton,†
+463,Nilsson,Miss Berta Olivia,18,Southampton,S
+464,Nilsson,Miss Helmina Josefina,26,Southampton,S
+465,Nirva,Mr Iisakki Antino äijö,41,Southampton,†
+466,Niskänen,Mr Juha,39,Southampton,S
+467,Nofal,Mr Mansouer,20,Cherbourg,†
+468,Nosworthy,Mr Richard Cater,21,Southampton,†
+469,Nysten,Miss Anna Sofia,22,Southampton,S
+470,Nysveen,Mr Johan Hansen,60,Southampton,†
+471,O’Brien,Mr Denis,21,Queenstown,†
+472,O’Brien,Mr Thomas,27,Queenstown,†
+473,O’Brien,Mrs Johanna,26,Queenstown,†
+474,O’Connell,Mr Patrick Denis,17,Queenstown,†
+475,O’Connor,Mr Maurice,16,Queenstown,†
+476,O’Connor,Mr Patrick,23,Queenstown,†
+477,O’Dwyer,Miss Ellen,25,Queenstown,S
+478,O’Keefe,Mr Patrick,21,Queenstown,S
+479,O’Leary,Miss Hanora,16,Queenstown,S
+480,O’Sullivan,Miss Bridget Mary,21,Queenstown,†
+481,Ödahl,Mr Nils Martin,23,Southampton,†
+482,Öhman,Miss Velin,22,Southampton,S
+483,Olsen,Mr Karl Siegwart Andreas,42,Southampton,†
+484,Olsen,Master Artur Karl,9,Southampton,S
+485,Olsen,Mr Henry Margido,28,Southampton,†
+486,Olsen,Mr Ole Martin,27,Southampton,†
+487,Olsson,Mr Oscar Wilhelm,32,Southampton,S
+488,Olsson,Mr Nils Johan Göransson,28,Southampton,†
+489,Olsson,Miss Elina,31,Southampton,†
+490,Olsvigen,Mr Thor Anderson,20,Southampton,†
+491,Oreskovic,Mr Luka,20,Southampton,†
+492,Oreskovic,Miss Jelka,23,Southampton,†
+493,Oreskovic,Miss Marija,20,Southampton,†
+494,Osén,Mr Olaf Elon,16,Southampton,†
+495,Panula,Mrs Maija Emelia Abrahamintytar,41,Southampton,†
+496,Panula,Master Jaako Arnold,14,Southampton,†
+497,Panula,Mr Ernesti Arvid,16,Southampton,†
+498,Panula,Master Juha Niilo,7,Southampton,†
+499,Panula,Master Urho Abraham,2,Southampton,†
+500,Panula,Master Eino Viljam,1,Southampton,†
+501,Pasic,Mr Jakob,21,Southampton,†
+502,Patchett,Mr George,19,Southampton,†
+503,Pavlovic,Mr Stefo,32,Southampton,†
+504,Pålsson,Mrs Alma Cornelia,29,Southampton,†
+505,Pålsson,Master Gösta Leonard,2,Southampton,†
+506,Pålsson,Master Paul Folke,6,Southampton,†
+507,Pålsson,Miss Stina Viola,3,Southampton,†
+508,Pålsson,Miss Torborg Danira,8,Southampton,†
+509,Peacock,Mrs Edith,26,Southampton,†
+510,Peacock,Master Albert Edward,7m,Southampton,†
+511,Peacock,Miss Treasteall,3,Southampton,†
+512,Pearce,Mr Ernest,32,Southampton,†
+513,Pedersen,Mr Olaf,28,Southampton,†
+514,Peduzzi,Mr Giuseppe,24,Southampton,†
+515,Pekoniemi,Mr Edvard,21,Southampton,†
+516,Peltomäki,Mr Nikolai Johannes,25,Southampton,†
+517,Perkin,Mr John Henry,22,Southampton,†
+518,Persson,Mr Ernst Ulrik,25,Southampton,S
+519,Peter/Joseph,Master Michael J.,4,Cherbourg,S
+520,Peter/Joseph,Miss Anna,2,Cherbourg,S
+521,Peteranec,Miss Mathilda,28,Southampton,†
+522,Peters,Miss Catherine,26,Queenstown,†
+523,Petersen,Mr Marius,24,Southampton,†
+524,Petroff,Mr Nedialco,19,Southampton,†
+525,Petroff,Mr Pastcho,29,Southampton,†
+526,Pettersson,Mr Johan Emil,25,Southampton,†
+527,Pettersson,Miss Elin Natalia,18,Southampton,†
+528,Picard,Mr Benoît,32,Southampton,S
+529,Plotcharsky,Mr Vasil,27,Southampton,†
+530,Pokrnic,Mr Mate,17,Southampton,†
+531,Pokrnic,Mr Tome,24,Southampton,†
+532,Pulner,Mr Uscher,16,Cherbourg,†
+533,Radeff,Mr Alexander,27,Southampton,†
+534,Rafūl-Būlus,Mr Bākhūs,20,Cherbourg,†
+535,Rasmussen,Mrs Lena Jakobsen,63,Southampton,†
+536,Razi,Mr Raihed,30,Cherbourg,†
+537,Reed,Mr James George,19,Southampton,†
+538,Rekic,Mr Tido,38,Southampton,†
+539,Reynolds,Mr Harold,21,Southampton,†
+540,Rice,Mrs Margaret,39,Queenstown,†
+541,Rice,Master Albert,10,Queenstown,†
+542,Rice,Master George Hugh,8,Queenstown,†
+543,Rice,Master Eric,7,Queenstown,†
+544,Rice,Master Arthur,4,Queenstown,†
+545,Rice,Master Eugene Francis,2,Queenstown,†
+546,Riihivuori,Miss Susanna Juhantytär,22,Southampton,†
+547,Rintamäki,Mr Matti,35,Southampton,†
+548,Riordan,Miss Hannah,18,Queenstown,S
+549,Risien,Mr Samuel Beard,69,Southampton,†
+550,Risien,Mrs Emma Jane,58,Southampton,†
+551,Robins,Mr Alexander A.,50,Southampton,†
+552,Robins,Mrs Charity,47,Southampton,†
+553,Rogers,Mr William John,29,Southampton,†
+554,Rommetvedt,Mr Knud Paust,49,Southampton,†
+555,Rosblom,Mrs Helena Wilhelmina,41,Southampton,†
+556,Rosblom,Miss Salli Helena,2,Southampton,†
+557,Rosblom,Mr Viktor Richard,18,Southampton,†
+558,Roth,Miss Sarah,31,Southampton,S
+559,Rouse,Mr Richard Henry,53,Southampton,†
+560,Rush,Mr Alfred George John,17,Southampton,†
+561,Ryan,Mr Patrick,30,Queenstown,†
+562,Ryan,Mr Edward,24,Queenstown,S
+563,Saad,Mr Amin,30,Cherbourg,†
+564,Saad,Mr Khalil,27,Cherbourg,†
+565,Sadlier,Mr Matthew,18,Queenstown,†
+566,Sadowitz,Mr Henry,17,Southampton,†
+567,Sage,Mr John George,44,Southampton,†
+568,Sage,Mrs Annie Elizabeth,44,Southampton,†
+569,Sage,Miss Stella Anne,20,Southampton,†
+570,Sage,Mr George John,19,Southampton,†
+571,Sage,Mr Douglas Bullen,18,Southampton,†
+572,Sage,Mr Frederick,16,Southampton,†
+573,Sage,Miss Dorothy,14,Southampton,†
+574,Sage,Master Anthony William,12,Southampton,†
+575,Sage,Miss Elizabeth Ada,10,Southampton,†
+576,Sage,Miss Constance Gladys,7,Southampton,†
+577,Sage,Master Thomas Henry,4,Southampton,†
+578,Salander,Mr Karl Johan,24,Southampton,†
+579,Salkjelsvik,Miss Anna Kristine,21,Southampton,S
+580,Salonen,Mr Johan Werner,29,Southampton,†
+581,Samaan,Mr Hanna Elias,40,Cherbourg,†
+582,Samaan,Mr Elias,17,Cherbourg,†
+583,Samaan,Mr Youssef,16,Cherbourg,†
+584,Sandström,Mrs Agnes Charlotta,24,Southampton,S
+585,Sandström,Miss Beatrice Irene,1,Southampton,S
+586,Sandström,Miss Marguerite Rut,4,Southampton,S
+587,Sap,Mr Julius,21,Southampton,S
+588,Saundercock,Mr William Henry,19,Southampton,†
+589,Sawyer,Mr Frederick Charles,33,Southampton,†
+590,Sæther,Mr Simon Sivertsen,43,Southampton,†
+591,Søholt,Mr Peter Andreas Lauritz Andersen,19,Southampton,†
+592,Scanlan,Mr James,22,Queenstown,†
+593,Scheerlinck,Mr Jean,29,Southampton,S
+594,Sdycoff,Mr Todor,42,Southampton,†
+595,Seman,Master Betros,10,Cherbourg,†
+596,Shannon,Mr Andrew John,36,Southampton,†
+597,Shaughnessy,Mr Patrick,24,Queenstown,†
+598,Shedid,Mr Daher,19,Cherbourg,†
+599,Shellard,Mr Frederick William Blainey,55,Southampton,†
+600,Shihāb,Mr Al-Am īr Fāris,29,Cherbourg,†
+601,Shine,Miss Ellen,20,Queenstown,†
+602,Shorney,Mr Charles Joseph,22,Southampton,†
+603,Simmons,Mr John,40,Southampton,†
+604,Sirayanian,Mr Orsen,22,Cherbourg,†
+605,Sirota,Mr Morris,20,Southampton,†
+606,Sivic,Mr Husein,40,Southampton,†
+607,Sivola,Mr Antti Wilhelm,21,Southampton,†
+608,Sjöblom,Miss Anna Sofia,18,Southampton,S
+609,Skoog,Mr Wilhelm Johansson,40,Southampton,†
+610,Skoog,Mrs Anna Bernhardina,43,Southampton,†
+611,Skoog,Master Karl Thorsten,11,Southampton,†
+612,Skoog,Master Harald,5,Southampton,†
+613,Skoog,Miss Mabel,9,Southampton,†
+614,Skoog,Miss Margit Elizabeth,2,Southampton,†
+615,Slabenoff,Mr Petco,42,Southampton,†
+616,Slocovski,Mr Selman Francis,20,Southampton,†
+617,Smiljanic,Mr Mile,37,Southampton,†
+618,Smyth,Mr Thomas,26,Queenstown,†
+619,Smyth,Miss Julia,17,Queenstown,S
+620,Somerton,Mr Francis William,30,Southampton,†
+621,Spector,Mr Woolf,23,Southampton,†
+622,Spinner,Mr Henry John,32,Southampton,†
+623,Staneff,Mr Ivan,23,Southampton,†
+624,Stankovic,Mr Ivan,33,Cherbourg,†
+625,Stanley,Miss Amy Zillah Elsie,24,Southampton,S
+626,Stanley,Mr Edward Roland,21,Southampton,†
+627,Storey,Mr Thomas,51,Southampton,†
+628,Stoytcheff,Mr Ilia,19,Southampton,†
+629,Strandén,Mr Juho Niilosson,31,Southampton,S
+630,Strandberg,Miss Ida Sofia,22,Southampton,†
+631,Ström,Mrs Elna Matilda,29,Southampton,†
+632,Ström,Miss Telma Matilda,2,Southampton,†
+633,Strilic,Mr Ivan,27,Southampton,†
+634,Sunderland,Mr Victor Francis,20,Southampton,S
+635,Sundman,Mr Johan Julian,44,Southampton,S
+636,Sutehall,Mr Henry Jr,25,Southampton,†
+637,Svensson,Mr Olof,24,Southampton,†
+638,Svensson,Mr Johan,74,Southampton,†
+639,Svensson,Mr Johan Cervin,14,Southampton,S
+640,Tannūs,Mr Bash īr,31,Cherbourg,†
+641,Tannūs,Mrs Tham īn,16,Cherbourg,S
+642,Tannūs,Master As’ad,5m,Cherbourg,S
+643,Törber,Mr Ernst Wilhelm,41,Southampton,†
+644,Törnquist,Mr William Henry,25,Southampton,S
+645,Tenglin,Mr Gunnar Isidor,25,Southampton,S
+646,Theobald,Mr Thomas Leonard,34,Southampton,†
+647,Thomas/Tannous,Mr Tannous,16,Cherbourg,†
+648,Thomas/Tannous,Mr John,34,Cherbourg,†
+649,Thompson,Mr Alexander Morrison,36,Southampton,†
+650,Thorneycroft,Mr Percival,36,Southampton,†
+651,Thorneycroft,Mrs Florence Kate,32,Southampton,S
+652,Tikkanen,Mr Juho,32,Southampton,†
+653,Tobin,Mr Roger,20,Queenstown,†
+654,Todoroff,Mr Lalio,23,Southampton,†
+655,Tomlin,Mr Ernest Portage,22,Southampton,†
+656,Torfa,Mr Assad,20,Cherbourg,†
+657,Totevski,Mr Hristo Danchev,25,Southampton,†
+658,Tu’Mah,Mrs Hinnah,27,Cherbourg,S
+659,Tu’Mah,Miss Mariyam,9,Cherbourg,S
+660,Tu’Mah,Master Jirjis Yūsuf,8,Cherbourg,S
+661,Turcin,Mr Stjepan,36,Southampton,†
+662,Turja,Miss Anna Sofia,18,Southampton,S
+663,Turkula,Mrs Hedwig,63,Southampton,S
+664,Van Billiard,Mr Austin Blyler,35,Southampton,†
+665,Van Billiard,Master James William,10,Southampton,†
+666,Van Billiard,Master Walter John,9,Southampton,†
+667,Van De Velde,Mr Johannes Josef,35,Southampton,†
+668,Van Den Steen,Mr Leo Peter,28,Southampton,†
+669,Van Impe,Mr Jean Baptiste,36,Southampton,†
+670,Van Impe,Mrs Rosalie Paula,30,Southampton,†
+671,Van Impe,Miss Catharina,10,Southampton,†
+672,Van Melckebeke,Mr Philemon,23,Southampton,†
+673,Vandercruyssen,Mr Victor,46,Southampton,†
+674,Vanderplancke,Mr Julius,31,Southampton,†
+675,Vanderplancke,Mrs Emelie Maria,31,Southampton,†
+676,Vanderplancke,Miss Augusta Maria,18,Southampton,†
+677,Vanderplancke,Mr Leo Edmondus,15,Southampton,†
+678,Vandewalle,Mr Nestor Cyriel,28,Southampton,†
+679,Vartanian,Mr David,22,Cherbourg,†
+680,Vendel,Mr Olof Edvin,20,Southampton,†
+681,Veström,Miss Hulda Amanda Adolfina,14,Southampton,†
+682,Vovk,Mr Janko,21,Southampton,†
+683,Waelens,Mr Achille,22,Southampton,†
+684,Ware,Mr Frederick,34,Southampton,†
+685,Warren,Mr Charles William,30,Southampton,†
+686,Wazli,Mr Yousif Ahmed,23,Cherbourg,†
+687,Webber,Mr James,66,Southampton,†
+688,Wennerström,Mr August,27,Southampton,S
+689,Widegren,Mr Carl Peter,51,Southampton,†
+690,Wiklund,Mr Karl Johan,21,Southampton,†
+691,Wiklund,Mr Jakob Alfred,18,Southampton,†
+692,Wilkes,Mrs Ellen,47,Southampton,S
+693,Willer,Mr Aaron,37,Cherbourg,†
+694,Willey,Mr Edward John,18,Southampton,†
+695,Williams,Mr Howard Hugh,28,Southampton,†
+696,Williams,Mr Leslie,28,Southampton,†
+697,Windeløv,Mr Einar,21,Southampton,†
+698,Wirz,Mr Albert,27,Southampton,†
+699,Wiseman,Mr Philippe,54,Southampton,†
+700,Wittevrongel,Mr Camilius Aloysius,36,Southampton,†
+701,Yasbeck,Mr Antoni,27,Cherbourg,S
+702,Yazbeck,Mrs Selini,15,Cherbourg,†
+703,Yūsuf,Mrs Kātr īn,24,Cherbourg,S
+704,Yousseff (Abi Saab),Mr Gerios,26,Cherbourg,†
+705,Youssiff (Sam’Aan),Mr Gerios,45,Cherbourg,†
+706,Zakarian,Mr Ortin,27,Cherbourg,†
+707,Zakarian,Mr Mapriededer,22,Cherbourg,†
+708,Zenni,Mr Philip,22,Cherbourg,S
+709,Zimmermann,Mr Leo,29,Southampton,†

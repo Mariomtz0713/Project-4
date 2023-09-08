@@ -1,0 +1,286 @@
+,0,1,2,3,4
+0,Surname,First Names,Age,Boarded,Survivor (S) or Victim (†)
+1,Abelson,Mr Samuel,30,Cherbourg,†
+2,Abelson,Mrs Hannah,28,Cherbourg,S
+3,Aldworth,Mr Augustus Henry,34,Southampton,†
+4,Andrew,Mr Frank Thomas,25,Southampton,†
+5,Andrew,Mr Edgar Samuel,17,Southampton,†
+6,Angle,Mrs Florence Agnes,36,Southampton,S
+7,Angle,Mr William,32,Southampton,†
+8,Ashby,Mr John,57,Southampton,†
+9,Bailey,Mr Percy,15,Southampton,†
+10,Baimbrigge,Mr Charles Robert,22,Southampton,†
+11,Balls,Mrs Ada E.,36,Southampton,S
+12,Banfield,Mr Frederick James,28,Southampton,†
+13,Bateman,Reverend Robert James,51,Southampton,†
+14,Beane,Mr Edward,32,Southampton,S
+15,Beane,Mrs Ethel,22,Southampton,S
+16,Beauchamp,Mr Henry James,28,Southampton,†
+17,Becker,Mrs Nellie E.,35,Southampton,S
+18,Becker,Miss Ruth Elizabeth,12,Southampton,S
+19,Becker,Miss Marion Louise,4,Southampton,S
+20,Becker,Master Richard F.,1,Southampton,S
+21,Beesley,Mr Lawrence,34,Southampton,S
+22,Bentham,Miss Lillian W.,19,Southampton,S
+23,Berriman,Mr William John,23,Southampton,†
+24,Botsford,Mr William Hull,25,Southampton,†
+25,Bowenur,Mr Solomon,42,Southampton,†
+26,Bracken,Mr James Hollen,29,Southampton,†
+27,Brailey,Mr William Theodore Ronald,24,Southampton,†
+28,Bricoux,Mr Roger Marie,20,Southampton,†
+29,Brito,Mr José Joaquim de,32,Southampton,†
+30,Brown,Mr Thomas William Solomon,60,Southampton,†
+31,Brown,Mrs Elizabeth Catherine,40,Southampton,S
+32,Brown,Miss Amelia Mary,18,Southampton,S
+33,Brown,Miss Edith Eileen,15,Southampton,S
+34,Bryhl,Mr Kurt Arnold Gottfrid,25,Southampton,†
+35,Bryhl,Miss Dagmar Jenny Ingeborg,20,Southampton,S
+36,Buss,Miss Kate,36,Southampton,S
+37,Butler,Mr Reginald Fenton,25,Southampton,†
+38,Byles,Father Thomas Roussel Davids,42,Southampton,†
+39,Byström,Mrs Karolina,40,Southampton,†
+40,Caldwell,Mrs Sylvia Mae,28,Southampton,S
+41,Caldwell,Mr Albert Francis,26,Southampton,S
+42,Caldwell,Master Alden Gates,10m,Southampton,S
+43,Cameron,Miss Clear Annie,35,Southampton,S
+44,Campbell,Mr William Henry,21,Belfast,†
+45,Carbines,Mr William,19,Southampton,†
+46,Carter,Father Ernest Courtenay,54,Southampton,†
+47,Carter,Mrs Lilian,45,Southampton,†
+48,Chapman,Mr Charles Henry,52,Southampton,†
+49,Chapman,Mr John Henry,36,Southampton,†
+50,Chapman,Mrs Sara Elizabeth,28,Southampton,†
+51,Christy,Mrs Alice Frances,45,Southampton,S
+52,Christy,Miss Rachel Juli Cohen,25,Southampton,S
+53,Clarke,Mr Charles Valentine,29,Southampton,†
+54,Clarke,Mr John Frederick Preston,28,Southampton,†
+55,Clarke,Mrs Ada Maria,28,Southampton,S
+56,Coleridge,Mr Reginald Charles,29,Southampton,†
+57,Collander,Mr Erik Gustaf,27,Southampton,†
+58,Collett,Mr Sidney Clarence Stuart,25,Southampton,S
+59,Collyer,Mrs Charlotte Caroline,31,Southampton,S
+60,Collyer,Mr Harvey,31,Southampton,†
+61,Collyer,Miss Marjorie Lottie,8,Southampton,S
+62,Cook,Mrs Selena,22,Southampton,S
+63,Corbett,Mrs Irene,30,Southampton,†
+64,Corey,Mrs Mary Emma,30,Southampton,†
+65,Cotterill,Mr Henry,20,Southampton,†
+66,Cunningham,Mr Alfred Fleming,21,Belfast,†
+67,Davies,Mrs Agnes,48,Southampton,S
+68,Davies,Mr Charles Henry,19,Southampton,†
+69,Davies,Master John Morgan Jr,8,Southampton,S
+70,Davis,Miss Mary Ann Charlotte,28,Southampton,S
+71,Deacon,Mr Percy William,18,Southampton,†
+72,Del Carlo,Mr Sebastiano,29,Cherbourg,†
+73,Del Carlo,Mrs Argene,24,Cherbourg,S
+74,Denbuoy,Mr Albert Joseph,25,Southampton,†
+75,Dibden,Mr William,18,Southampton,†
+76,Doling,Mrs Ada Julia Elizabeth,34,Southampton,†
+77,Doling,Miss Elsie,18,Southampton,†
+78,Douton,Mr William Joseph,55,Southampton,†
+79,Drew,Mr James Vivian,42,Southampton,†
+80,Drew,Mrs Maria Louisa Thorne,34,Southampton,S
+81,Drew,Master Marshall Brines,8,Southampton,S
+82,Durán I Moné,Señora Florentina,30,Cherbourg,S
+83,Durán I Moné,Señora Asuncion,27,Cherbourg,S
+84,Eitemiller,Mr George Floyd,25,Southampton,†
+85,Enander,Mr Ingvar,21,Southampton,†
+86,Fahlstrøm,Mr Arne Joma,18,Southampton,†
+87,Faunthorpe,Mr Harry Bartram,41,Southampton,†
+88,Fillbrook,Mr Joseph Charles,18,Southampton,†
+89,Fox,Mr Stanley Harrington,38,Southampton,†
+90,Frost,Mr Anthony Wood,38,Belfast,†
+91,Funk,Miss Annie Clemmer,38,Southampton,†
+92,Fynney,Mr Joseph J.,35,Southampton,†
+93,Gale,Mr Harry,38,Southampton,†
+94,Gale,Mr Shadrach,33,Southampton,†
+95,Garside,Miss Ethel,39,Southampton,S
+96,Gaskell,Mr William Alfred,19,Southampton,†
+97,Gavey,Mr Laurence,26,Southampton,†
+98,Gilbert,Mr William,47,Southampton,†
+99,Giles,Mr Ralph,24,Southampton,†
+100,Giles,Mr Edgar,21,Southampton,†
+101,Giles,Mr Frederick Edward,20,Southampton,†
+102,Gill,Mr John,24,Southampton,†
+103,Gillespie,Mr William Henry,31,Southampton,†
+104,Givard,Mr Hans Kristensen,30,Southampton,†
+105,Greenberg,Mr Samuel,52,Southampton,†
+106,Hämäläinen,Mrs Anna,23,Southampton,S
+107,Hämäläinen,Master Viljo Unto Johannes,7m,Southampton,S
+108,Hale,Mr Reginald,30,Southampton,†
+109,Harbeck,Mr William H.,44,Southampton,†
+110,Harper,Reverend John,39,Southampton,†
+111,Harper,Miss Annie Jessie,6,Southampton,S
+112,Harris,Mr George,62,Southampton,S
+113,Harris,Mr Walter,44,Southampton,†
+114,Hart,Mrs Esther Ada,48,Southampton,S
+115,Hart,Mr Benjamin,47,Southampton,†
+116,Hart,Miss Eva Miriam,7,Southampton,S
+117,Hartley,Mr Wallace Henry,33,Southampton,†
+118,Herman,Mr Samuel,49,Southampton,†
+119,Herman,Mrs Jane,48,Southampton,S
+120,Herman,Miss Alice,23,Southampton,S
+121,Herman,Miss Kate,23,Southampton,S
+122,Hewlett,Mrs Mary Dunbar,56,Southampton,S
+123,Hickman,Mr Lewis,30,Southampton,†
+124,Hickman,Mr Leonard Mark,24,Southampton,†
+125,Hickman,Mr Stanley George,20,Southampton,†
+126,Hiltunen,Miss Marta,18,Southampton,†
+127,Hocking,Mrs Eliza,54,Southampton,S
+128,Hocking,Mr Samuel James Metcalfe,36,Southampton,†
+129,Hocking,Mr Richard George,23,Southampton,†
+130,Hocking,Miss Ellen,20,Southampton,S
+131,Hodges,Mr Henry Price,50,Southampton,†
+132,Hold,Mr Stephen,44,Southampton,†
+133,Hold,Mrs Annie Margaret,29,Southampton,S
+134,Hood,Mr Ambrose Jr,21,Southampton,†
+135,Hosono,Mr Masabumi,41,Southampton,S
+136,Howard,Mr Benjamin,63,Southampton,†
+137,Howard,Mrs Ellen Truelove,61,Southampton,†
+138,Hume,Mr John Law,21,Southampton,†
+139,Hunt,Mr George Henry,33,Southampton,†
+140,Ilett,Miss Bertha,17,Southampton,†
+141,Jacobsohn,Mr Sidney Samuel,42,Southampton,†
+142,Jacobsohn,Mrs Amy Frances Christy,24,Southampton,S
+143,Jarvis,Mr Denzil John,47,Southampton,†
+144,Jefferys,Mr Clifford Thomas,24,Southampton,†
+145,Jefferys,Mr Ernest Wilfred,22,Southampton,†
+146,Jenkin,Mr Stephen Curnow,32,Southampton,†
+147,Jerwan,Mrs Marie Marthe,23,Cherbourg,S
+148,Kantor,Mr Sinai,34,Southampton,†
+149,Kantor,Mrs Miriam,24,Southampton,S
+150,Karnes,Mrs Claire,28,Southampton,†
+151,Keane,Miss Nora Agnes,46,Queenstown,S
+152,Keane,Mr Daniel,35,Queenstown,†
+153,Kelly,Mrs Fanny Maria,45,Southampton,S
+154,Kirkland,Father Charles Leonard,52,Queenstown,†
+155,Knight,Mr Robert,39,Belfast,†
+156,Krins,Mr Georges Alexandre,23,Southampton,†
+157,Kvillner,Mr Johan Henrik Johannesson,31,Southampton,†
+158,Lévy,Mr René Jacques,36,Southampton,†
+159,Lahtinen,Father William,35,Southampton,†
+160,Lahtinen,Mrs Anna Amelia,34,Southampton,†
+161,Lamb,Mr John J.,30,Queenstown,†
+162,Laroche,Mr Joseph Philippe Lemercier,25,Cherbourg,†
+163,Laroche,Mrs Juliette Marie Louise,22,Cherbourg,S
+164,Laroche,Miss Simonne Marie Anne Andrée,3,Cherbourg,S
+165,Laroche,Miss Louise,1,Cherbourg,S
+166,Lehmann,Miss Bertha,17,Cherbourg,S
+167,Leitch,Miss Jessie Wills,31,Southampton,S
+168,Lemore,Mrs Amelia,46,Southampton,S
+169,Leyson,Mr Robert William Norman,25,Southampton,†
+170,Lingane,Mr John,61,Queenstown,†
+171,Louch,Mr Charles,50,Southampton,†
+172,Louch,Mrs Alice Adelaide,42,Southampton,†
+173,Mack,Mrs Mary,57,Southampton,†
+174,Malachard,Mr Jean-Noël,25,Cherbourg,†
+175,Mallet,Mr Albert Denis Pierre,45,Cherbourg,†
+176,Mallet,Mrs Antonine Marie,24,Cherbourg,S
+177,Mallet,Master André Clement,1,Cherbourg,S
+178,Mangiavacchi,Mr Serafino Emilio,30,Cherbourg,†
+179,Matthews,Mr William John,23,Southampton,†
+180,Maybery,Mr Frank Hubert,36,Southampton,†
+181,McCrae,Mr Arthur Gordon,32,Southampton,†
+182,McCrie,Mr James Matthew,32,Southampton,†
+183,McKane,Mr Peter Daniel,46,Southampton,†
+184,Mellinger,Mrs Elizabeth Anne,41,Southampton,S
+185,Mellinger,Miss Violet Madeline,13,Southampton,S
+186,Mellors,Mr William John,19,Southampton,S
+187,Meyer,Mr August,31,Southampton,†
+188,Milling,Mr Jacob Christian,48,Southampton,†
+189,Mitchell,Mr Henry Michael,71,Southampton,†
+190,Montvila,Father Juozas,27,Southampton,†
+191,Moraweck,Dr Ernest,54,Southampton,†
+192,Morley,Mr Henry Samuel,38,Southampton,†
+193,Mudd,Mr Thomas Cupper,16,Southampton,†
+194,Myles,Mr Thomas Francis,63,Queenstown,†
+195,Nasser,Mr Nicholas,28,Cherbourg,†
+196,Nasser,Mrs Adele,14,Cherbourg,†
+197,Navratil,Mr Michel,32,Southampton,†
+198,Navratil,Master Michel Marcel,3,Southampton,S
+199,Navratil,Master Edmond Roger,2,Southampton,S
+200,Nesson,Mr Israel,26,Southampton,†
+201,Nicholls,Mr Joseph Charles,19,Southampton,†
+202,Norman,Mr Robert Douglas,27,Southampton,†
+203,Nye,Mrs Elizabeth,29,Southampton,S
+204,Otter,Mr Richard,38,Southampton,†
+205,Oxenham,Mr Percy Thomas,22,Southampton,S
+206,Padron Manent,Mr Julian,26,Cherbourg,S
+207,Pain,Dr Alfred,23,Southampton,†
+208,Pallàs I Castelló,Señor Emili,29,Cherbourg,S
+209,Parker,Mr Clifford Richard,17,Southampton,†
+210,Parkes,Mr Francis,21,Belfast,†
+211,Parrish,Mrs Lutie Davis,59,Southampton,S
+212,Pengelly,Mr Frederick William,19,Southampton,†
+213,Pernot,Mr René,39,Cherbourg,†
+214,Peruschitz,Father Josef,41,Southampton,†
+215,Phillips,Mr Escott Robert,42,Southampton,†
+216,Phillips,Miss Alice Frances Louisa,21,Southampton,S
+217,Phillips,Miss Kate Florence,19,Southampton,S
+218,Pinsky,Mrs Rosa,32,Southampton,S
+219,Ponesell,Mr Martin,24,Southampton,†
+220,Portaluppi,Mr Emilio Ilario Giuseppe,30,Cherbourg,S
+221,Pulbaum,Mr Franz,27,Cherbourg,†
+222,Quick,Mrs Jane,33,Southampton,S
+223,Quick,Miss Winifred Vera,8,Southampton,S
+224,Quick,Miss Phyllis May,2,Southampton,S
+225,Reeves,Mr David,36,Southampton,†
+226,Renouf,Mr Peter Henry,33,Southampton,†
+227,Renouf,Mrs Lillian,30,Southampton,†
+228,Reynalds,Señora Encarnación,28,Southampton,S
+229,Richard,Mr Emile Phillippe,23,Cherbourg,†
+230,Richards,Mrs Emily,24,Southampton,S
+231,Richards,Master Sibley George,9m,Southampton,S
+232,Richards,Master William Rowe,3,Southampton,S
+233,Ridsdale,Miss Lucy,58,Southampton,S
+234,Rogers,Mr Reginald Harry,18,Southampton,†
+235,Rugg,Miss Emily,21,Southampton,S
+236,Schmidt,Mr Augustus,21,Southampton,†
+237,Sedgwick,Mr Charles Frederick Waddington,28,Southampton,†
+238,Sharp,Mr Percival,27,Southampton,†
+239,Shelley,Mrs Imanita Parrish,25,Southampton,S
+240,Silvén,Miss Lyyli Karoliina,17,Southampton,S
+241,Sincock,Miss Maude,20,Southampton,S
+242,Sinkkonen,Miss Anna,29,Southampton,S
+243,Sjöstedt,Mr Ernst Adolf,59,Southampton,†
+244,Slayter,Miss Hilda Mary,30,Queenstown,S
+245,Slemen,Mr Richard James,35,Southampton,†
+246,Smith,Miss Marion Elsie,39,Southampton,S
+247,Sobey,Mr Samuel James Hayden,25,Southampton,†
+248,Stanton,Mr Samuel Ward,42,Cherbourg,†
+249,Stokes,Mr Philip Joseph,25,Southampton,†
+250,Swane,Mr George,19,Southampton,†
+251,Sweet,Mr George Frederick,14,Southampton,†
+252,Taylor,Mr Percy Cornelius,32,Southampton,†
+253,Toomey,Miss Ellen Mary,48,Southampton,S
+254,Troupiansky,Mr Moses Aaron,23,Southampton,†
+255,Trout,Mrs Jessie Laird,27,Southampton,S
+256,Troutt,Miss Edwina Celia,27,Southampton,S
+257,Turpin,Mr William John,29,Southampton,†
+258,Turpin,Mrs Dorothy Ann,26,Southampton,†
+259,Veal,Mr James,40,Southampton,†
+260,Wallcroft,Miss Ellen “Nellie”,36,Southampton,S
+261,Ware,Mr John James,45,Southampton,†
+262,Ware,Mrs Florence Louise,31,Southampton,S
+263,Ware,Mr William Jeffery,23,Southampton,†
+264,Watson,Mr Ennis Hastings,19,Belfast,†
+265,Watt,Mrs Elizabeth,40,Southampton,S
+266,Watt,Miss Robertha Josephine,12,Southampton,S
+267,Webber,Miss Susan,37,Southampton,S
+268,Weisz,Mr Léopold,37,Southampton,†
+269,Weisz,Mrs Mathilde Françoise,37,Southampton,S
+270,Wells,Mrs Addie Dart,29,Southampton,S
+271,Wells,Miss Joan,4,Southampton,S
+272,Wells,Master Ralph Lester,2,Southampton,S
+273,West,Mr Edwy Arthur,36,Southampton,†
+274,West,Mrs Ada Mary,33,Southampton,S
+275,West,Miss Barbara Joyce,10m,Southampton,S
+276,West,Miss Constance Mirium,4,Southampton,S
+277,Wheadon,Mr Edward Henry,65,Southampton,†
+278,Wheeler,Mr Edwin Charles,24,Southampton,†
+279,Whilems,Mr Charles,31,Southampton,S
+280,Wilkinson,Mrs Elizabeth Anne,35,Southampton,S
+281,Williams,Mr Charles Eugene,23,Southampton,S
+282,Woodward,Mr John Wesley,32,Southampton,†
+283,Wright,Miss Marion,26,Southampton,S
+284,Yvois,Miss Henriette,24,Southampton,†
