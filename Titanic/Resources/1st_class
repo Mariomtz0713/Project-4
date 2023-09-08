@@ -1,326 +1,325 @@
-,0,1,2,3,4
-0,Surname,First Names,Age,Boarded,Survivor (S) or Victim (†)
-1,Allen,Miss Elisabeth Walton,29,Southampton,S
-2,Allison,Mr Hudson Joshua Creighton,30,Southampton,†
-3,Allison,Mrs Bessie Waldo,25,Southampton,†
-4,Allison,Miss Helen Loraine,2,Southampton,†
-5,Allison,Master Hudson Trevor,11m,Southampton,S
-6,Anderson,Mr Harry,47,Southampton,S
-7,Andrews,Miss Kornelia Theodosia,62,Cherbourg,S
-8,Andrews,Mr Thomas,39,Belfast,†
-9,Appleton,Mrs Charlotte,53,Southampton,S
-10,Artagaveytia,Mr Ramon,71,Cherbourg,†
-11,Astor,Colonel John Jacob,47,Cherbourg,†
-12,Astor,Mrs Madeleine Talmage,18,Cherbourg,S
-13,Aubart,Mme. Léontine Pauline “Ninette”,24,Cherbourg,S
-14,Barber,Miss Ellen Mary (Maid to Mrs Tyrell William Cavendish),26,Southampton,S
-15,Barkworth,Mr Algernon Henry,47,Southampton,S
-16,Bassani,Mrs Albina (Maid to Mrs William Robert Bucknell),32,Cherbourg,S
-17,Baumann,Mr John D.,60,Cherbourg,†
-18,Baxter,Mrs Hélène,50,Cherbourg,S
-19,Baxter,Mr Quigg Edmond,24,Cherbourg,†
-20,Beattie,Mr Thomson,36,Southampton,†
-21,Beckwith,Mr Richard Leonard,37,Southampton,S
-22,Beckwith,Mrs Sallie,46,Southampton,S
-23,Behr,Mr Karl Howell,26,Cherbourg,S
-24,Bessette,Miss Nellie Mayo (Maid to Mrs Ella Holmes White),39,Cherbourg,S
-25,Bidois,Miss Rosalie (Maid to Mrs John Jacob Astor),46,Cherbourg,S
-26,Bird,Miss Ellen (Maid to Mr & Mrs Isodor Straus),31,Southampton,S
-27,Birnbaum,Mr Jakob,24,Cherbourg,†
-28,Bishop,Mr Dickinson H.,25,Cherbourg,S
-29,Bishop,Mrs Helen,19,Cherbourg,S
-30,Björnström-Steffansson,Mr Mauritz Hokan,28,Southampton,S
-31,Blackwell,Mr Stephen Weart,45,Southampton,†
-32,Blank,Mr Henry,39,Cherbourg,S
-33,Bonnell,Miss Caroline,30,Southampton,S
-34,Bonnell,Miss Elizabeth,61,Southampton,S
-35,Borebank,Mr John James,42,Southampton,†
-36,Bowen,Miss Grace Scott (Maid to Mr & Mrs Arthur Ryerson),45,Cherbourg,S
-37,Bowerman,Miss Elsie Edith,22,Southampton,S
-38,Brady,Mr John Bertram,41,Southampton,†
-39,Brandeis,Mr Emil Franklin,48,Cherbourg,†
-40,Brereton,Mr George Andrew,37,Southampton,S
-41,Brewe,Dr Arthur Jackson,45,Cherbourg,†
-42,Brown,Mrs Caroline Lane,59,Southampton,S
-43,Brown,Mrs Margaret “Molly”,44,Cherbourg,S
-44,Bucknell,Mrs Emma Eliza,58,Cherbourg,S
-45,Burns,Miss Elizabeth Margaret (Nanny to Master Robert Douglas Spedden),41,Cherbourg,S
-46,Butt,Major Archibald Willingham,46,Southampton,†
-47,Cairns,Mr Alexander Milne (Manservant to Mr William Ernest Carter),28,Southampton,†
-48,Calderhead,Mr Edward Pennington,42,Southampton,S
-49,Candee,Mrs Helen Churchill,52,Cherbourg,S
-50,Cardeza,Mrs Charlotte Wardle,58,Cherbourg,S
-51,Cardeza,Mr Thomas Drake Martinez,36,Cherbourg,S
-52,Carlsson,Mr Frans Olof,33,Southampton,†
-53,Carraú-Esteves,Mr José Pedro,17,Southampton,†
-54,Carrau,Mr Francisco Mauro Severiano,27,Southampton,†
-55,Carter,Mr William Ernest,36,Southampton,S
-56,Carter,Mrs Lucile,36,Southampton,S
-57,Carter,Miss Lucile Polk,13,Southampton,S
-58,Carter,Master William Thornton II,11,Southampton,S
-59,Case,Mr Howard Brown,49,Southampton,†
-60,Cassebeer,Mrs Eleanor Genevieve,36,Cherbourg,S
-61,Cavendish,Mr Tyrell William,36,Southampton,†
-62,Cavendish,Mrs Julia Florence,25,Southampton,S
-63,Chaffee,Mr Herbert Fuller,46,Southampton,†
-64,Chaffee,Mrs Carrie Constance,47,Southampton,S
-65,Chambers,Mr Norman Campbell,27,Southampton,S
-66,Chambers,Mrs Bertha,32,Southampton,S
-67,Chaudanson,Miss Victorine (Maid to Mrs Emily Ryerson),36,Cherbourg,S
-68,Cherry,Miss Gladys,30,Southampton,S
-69,Chevré,Mr Paul Romaine Marie Léonce,45,Cherbourg,S
-70,Chibnall,Mrs Edith Martha Bowerman,48,Southampton,S
-71,Chisholm,Mr Roderick Robert Crispin,43,Belfast,†
-72,Clark,Mr Walter Miller,27,Cherbourg,†
-73,Clark,Mrs Virginia Estelle,26,Cherbourg,S
-74,Cleaver,Miss Alice Catherine (Nanny to Master Hudson Trevor Allison),22,Southampton,S
-75,Clifford,Mr George Quincy,40,Southampton,†
-76,Colley,Mr Edward Pomeroy,37,Southampton,†
-77,Compton,Mrs Mary Eliza,64,Cherbourg,S
-78,Compton,Miss Sara Rebecca,39,Cherbourg,S
-79,Compton,Mr Alexander Taylor Jr,37,Cherbourg,†
-80,Cornell,Mrs Malvina Helen,55,Southampton,S
-81,Crafton,Mr John Bertram,59,Southampton,†
-82,Crosby,Captain Edward Gifford,70,Southampton,†
-83,Crosby,Mrs Catherine Elizabeth,64,Southampton,S
-84,Crosby,Miss Harriette Rebecca,39,Southampton,S
-85,Cumings,Mr John Bradley,39,Cherbourg,†
-86,Cumings,Mrs Florence Briggs,35,Cherbourg,S
-87,Daly,Mr Peter Dennis,51,Southampton,†
-88,Daniel,Mr Robert Williams,27,Southampton,S
-89,Daniels,Miss Sarah Rebecca (Maid to Mr & Mrs Allison),33,Southampton,S
-90,Davidson,Mr Thornton,31,Cherbourg,†
-91,Davidson,Mrs Orian,27,Cherbourg,S
-92,Dick,Mr Albert Adrian,31,Southampton,S
-93,Dick,Mrs Vera,17,Southampton,S
-94,Dodge,Dr Washington,52,Southampton,S
-95,Dodge,Mrs Ruth,34,Southampton,S
-96,Dodge,Master Washington,4,Southampton,S
-97,Douglas,Mr Walter Donald,50,Cherbourg,†
-98,Douglas,Mrs Mahala,48,Cherbourg,S
-99,Douglas,Mrs Mary Hélène,27,Cherbourg,S
-100,Duff Gordon,Sir Cosmo Edmund,49,Cherbourg,S
-101,Duff Gordon,"Lucy Christiana, Lady",48,Cherbourg,S
-102,Dulles,Mr William Crothers,39,Cherbourg,†
-103,Earnshaw,Mrs Olive,23,Cherbourg,S
-104,Endres,Miss Caroline Louise (Nurse to Mrs Madeleine Astor),39,Cherbourg,S
-105,Eustis,Miss Elizabeth Mussey,54,Cherbourg,S
-106,Evans,Miss Edith Corse,36,Cherbourg,†
-107,Farthing,Mr John (Manservant to Mr & Mrs Straus),57,Southampton,†
-108,Flegenheim,Mrs Antoinette,48,Cherbourg,S
-109,Fleming,Miss Margaret (Maid to Mr & Mrs Thayer),42,Cherbourg,S
-110,Flynn,Mr John Irwin,36,Southampton,S
-111,Foreman,Mr Benjamin Laventall,30,Southampton,†
-112,Fortune,Mr Mark,64,Southampton,†
-113,Fortune,Mrs Mary,60,Southampton,S
-114,Fortune,Miss Ethel Flora,28,Southampton,S
-115,Fortune,Miss Alice Elizabeth,24,Southampton,S
-116,Fortune,Miss Mabel Helen,23,Southampton,S
-117,Fortune,Mr Charles Alexander,19,Southampton,†
-118,Francatelli,Miss Laura Mabel (Secretary to Lady Duff-Gordon),31,Cherbourg,S
-119,Franklin,Mr Thomas Parnham,37,Southampton,†
-120,Frauenthal,Mr Isaac Gerald,43,Cherbourg,S
-121,Frauenthal,Dr Henry William,49,Southampton,S
-122,Frauenthal,Mrs Clara,42,Southampton,S
-123,Frölicher,Miss Hedwig Margaritha,22,Cherbourg,S
-124,Frölicher-Stehli,Mr Maximilian Josef,60,Cherbourg,S
-125,Frölicher-Stehli,Mrs Margaretha Emerentia,48,Cherbourg,S
-126,Fry,Mr Richard (Valet to Mr Joseph Bruce Ismay),39,Southampton,†
-127,Futrelle,Mr Jacques Heath,37,Southampton,†
-128,Futrelle,Mrs Lily May,35,Southampton,S
-129,Gee,Mr Arthur H.,47,Southampton,†
-130,Gibson,Mrs Pauline Caroline,44,Cherbourg,S
-131,Gibson,Miss Dorothy Winifred,22,Cherbourg,S
-132,Gieger,Miss Amalie (Maid to Mrs George Dunton Widener),35,Southampton,S
-133,Giglio,Mr Victor Gaitan Andrea (Valet to Mr Benjamin Guggenheim),23,Cherbourg,†
-134,Goldenberg,Mr Samuel L.,47,Cherbourg,S
-135,Goldenberg,Mrs Nella,40,Cherbourg,S
-136,Goldschmidt,Mr George B.,71,Cherbourg,†
-137,Gracie,Colonel Archibald,53,Southampton,S
-138,Graham,Mr George Edward,38,Southampton,†
-139,Graham,Mrs Edith,59,Southampton,S
-140,Graham,Miss Margaret Edith,19,Southampton,S
-141,Greenfield,Mrs Blanche,45,Cherbourg,S
-142,Greenfield,Mr William Bertram,23,Cherbourg,S
-143,Guggenheim,Mr Benjamin,46,Cherbourg,†
-144,Harder,Mr George Achilles,25,Cherbourg,S
-145,Harder,Mrs Dorothy,21,Cherbourg,S
-146,Harper,Mr Henry Sleeper,48,Cherbourg,S
-147,Harper,Mrs Myra Raymond,49,Cherbourg,S
-148,Harrington,Mr Charles Henry (Manservant to Mr Clarence Bloomfield Moore),37,Southampton,†
-149,Harris,Mr Henry Birkhardt,45,Southampton,†
-150,Harris,Mrs Irene,35,Southampton,S
-151,Harrison,Mr William Henry (Private secretary to Mr Joseph Bruce Ismay),45,Southampton,†
-152,Hassab,Mr Hammad (Interpreter to Mr Henry Sleeper Harper),27,Cherbourg,S
-153,Hawksford,Mr Walter James,45,Southampton,S
-154,Hays,Mr Charles Melville,55,Southampton,†
-155,Hays,Mrs Clara Jennings,52,Southampton,S
-156,Hays,Miss Margaret Bechstein,24,Cherbourg,S
-157,Head,Mr Christopher,42,Southampton,†
-158,Hilliard,Mr Herbert Henry,44,Southampton,†
-159,Hipkins,Mr William Edward,55,Southampton,†
-160,Hippach,Mrs Ida Sophia,44,Cherbourg,S
-161,Hippach,Miss Jean Gertrude,17,Cherbourg,S
-162,Hogeboom,Mrs Anna Louisa,51,Cherbourg,S
-163,Holverson,Mr Alexander Oskar,42,Southampton,†
-164,Holverson,Mrs Mary Aline,35,Southampton,S
-165,Homer,Mr Harry,40,Southampton,S
-166,Hoyt,Mr Frederick Maxfield,38,Southampton,S
-167,Hoyt,Mrs Jane Anne,31,Southampton,S
-168,Hoyt,Mr William Fisher,42,Cherbourg,S
-169,Icard,Miss Rose Amélie (Maid to Mrs George Nelson Stone),39,Southampton,S
-170,Isham,Miss Ann Elizabeth,50,Cherbourg,†
-171,Ismay,Mr Joseph Bruce,49,Southampton,S
-172,Jones,Mr Charles Cresson,46,Southampton,†
-173,Julian,Mr Henry Forbes,50,Southampton,†
-174,Keeping,Mr Edwin Herbert (Manservant to Mr & Mrs Widener),33,Southampton,†
-175,Kent,Mr Edward Austin,58,Cherbourg,†
-176,Kenyon,Mr Frederick Roland,41,Southampton,†
-177,Kenyon,Mrs Marion Estelle,40,Southampton,S
-178,Kimball,Mr Edwin Nelson Jr.,42,Southampton,S
-179,Kimball,Mrs Susan Gertrude,45,Southampton,S
-180,Klaber,Mr Herman,41,Southampton,†
-181,Kreuchen,Miss Emilie (Maid to Mrs Edward Scott Robert),29,Southampton,S
-182,Leader,Dr Alice May,49,Southampton,S
-183,Leroy,Miss Berthe (Maid to Mrs Walter Donald Douglas),27,Cherbourg,S
-184,Lesueur,Mr Gustave J. (Manservant to Mr Thomas Cardeza),35,Cherbourg,S
-185,Lewy,Mr Ervin G.,30,Cherbourg,†
-186,Lindeberg-Lind,Mr Erik Gustaf,42,Southampton,†
-187,Lindström,Mrs Sigrid,55,Cherbourg,S
-188,Lines,Mrs Elizabeth Lindsey,50,Cherbourg,S
-189,Lines,Miss Mary Conover,16,Cherbourg,S
-190,Long,Mr Milton Clyde,29,Southampton,†
-191,Longley,Miss Gretchen Fiske,21,Cherbourg,S
-192,Loring,Mr Joseph Holland,30,Southampton,†
-193,Lurette,Miss Eugénie Elise (Maid to Mr & Mrs Spencer),59,Cherbourg,S
-194,Madill,Miss Georgette Alexandra,16,Southampton,S
-195,Maguire,Mr John Edward,30,Southampton,†
-196,Maioni,Miss Roberta Elizabeth Mary (Maid to the Countess of Rothes),19,Southampton,S
-197,Maréchal,Mr Pierre,29,Cherbourg,S
-198,Marvin,Mr Daniel Warner,18,Southampton,†
-199,Marvin,Mrs Mary Graham Carmichael,18,Southampton,S
-200,Mayné,Mlle Berthe Antonine,24,Cherbourg,S
-201,McCaffry,Mr Thomas Francis,46,Southampton,†
-202,McCarthy,Mr Timothy J.,54,Southampton,†
-203,McGough,Mr James Robert,35,Southampton,S
-204,Meyer,Mr Edgar Joseph,28,Cherbourg,†
-205,Meyer,Mrs Leila,25,Cherbourg,S
-206,Millet,Mr Francis Davis,65,Cherbourg,†
-207,Minahan,Dr William Edward,44,Queenstown,†
-208,Minahan,Mrs Lillian E.,37,Queenstown,S
-209,Minahan,Miss Daisy E.,33,Queenstown,S
-210,Mock,Mr Philipp Edmund,30,Cherbourg,S
-211,Molson,Mr Harry Markland,55,Southampton,†
-212,Moore,Mr Clarence Bloomfield,47,Southampton,†
-213,Natsch,Mr Charles,36,Cherbourg,†
-214,Newell,Mr Arthur Webster,58,Cherbourg,†
-215,Newell,Miss Marjorie Anne,23,Cherbourg,S
-216,Newell,Miss Madeleine,31,Cherbourg,S
-217,Newsom,Miss Helen Monypeny,19,Southampton,S
-218,Nicholson,Mr Arthur Ernest,59,Southampton,†
-219,Nourney,Mr Alfred,20,Cherbourg,S
-220,Oliva Y Ocana,Doña Fermina (Maid to Mrs Victor de Satode Peñasco y Castellana),39,Cherbourg,S
-221,Omont,Mr Alfred Fernand,29,Cherbourg,S
-222,Ostby,Mr Engelhart Cornelius,64,Southampton,†
-223,Østby,Miss Helen Ragnhild,22,Southampton,S
-224,Oviés Y Rodríguez,Mr Servando José Florentino,36,Cherbourg,†
-225,Parr,Mr William Henry Marsh,29,Belfast,†
-226,Partner,Mr Austin,40,Southampton,†
-227,Payne,Mr Vivian Ponsonby (Private secretary to Mr Charles Melville Hays),22,Southampton,†
-228,Pears,Mr Thomas Clinton,29,Southampton,†
-229,Pears,Mrs Edith,22,Southampton,S
-230,Peñasco Y Castellana,Mr Victor,24,Cherbourg,†
-231,Peñasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,22,Cherbourg,S
-232,Perreault,Miss Mary Anne (Maid to Mrs Charles Melville Hays),33,Southampton,S
-233,Peuchen,Major Arthur Godfrey,52,Southampton,S
-234,Porter,Mr Walter Chamberlain,46,Southampton,†
-235,Potter,Mrs Lily Alexenia,56,Cherbourg,S
-236,Reuchlin,Mr Jonkheer Johan George,38,Cherbourg,†
-237,Rheims,Mr George Alexander Lucien,33,Cherbourg,S
-238,Righini,Mr Sante (Manservant to Mrs John Stewart White),22,Cherbourg,†
-239,Robert,Mrs Elisabeth Walton,43,Southampton,S
-240,Robins,Mr Victor (Valet to Mr John Jacob Astor),42,Cherbourg,†
-241,Roebling,Mr Washington Augustus II,31,Southampton,†
-242,Romaine,Mr Charles Hallace,45,Southampton,S
-243,Rood,Mr Hugh Roscoe,39,Southampton,†
-244,Rosenbaum,Miss Edith Louise,33,Cherbourg,S
-245,Rosenshine,Mr George,46,Cherbourg,†
-246,Ross,Mr John Hugo,36,Southampton,†
-247,Rothes,"Lucy Noël Martha, Countess of",33,Southampton,S
-248,Rothschild,Mr Martin,46,Cherbourg,†
-249,Rothschild,Mrs Elizabeth Jane Anne,54,Cherbourg,S
-250,Rowe,Mr Alfred G.,59,Southampton,†
-251,Ryerson,Mr Arthur Larned,61,Cherbourg,†
-252,Ryerson,Mrs Emily Maria,48,Cherbourg,S
-253,Ryerson,Miss Emily Borie,18,Cherbourg,S
-254,Ryerson,Miss Susan Parker “Suzette”,21,Cherbourg,S
-255,Ryerson,Master John Borie,13,Cherbourg,S
-256,Saalfeld,Mr Adolphe,47,Southampton,S
-257,Salomon,Mr Abraham Lincoln,43,Cherbourg,S
-258,Sägesser,Mlle Emma (Maid to Mme. Léontine Pauline Aubart),24,Cherbourg,S
-259,Schabert,Mrs Emma,35,Cherbourg,S
-260,Serreplan,Miss Auguste (Maid to Mrs William Carter),30,Southampton,S
-261,Seward,Mr Frederic Kimber,34,Southampton,S
-262,Shutes,Miss Elizabeth Weed (Governess to Miss Margaret Edith Graham),40,Southampton,S
-263,Silverthorne,Mr Spencer Victor,35,Southampton,S
-264,Silvey,Mr William Baird,51,Cherbourg,†
-265,Silvey,Mrs Alice Gray,39,Cherbourg,S
-266,Simonius-Blumer,Mr Colonel (Oberst) Alfons,56,Southampton,S
-267,Sloper,Mr William Thompson,28,Southampton,S
-268,Smart,Mr John Montgomery,56,Southampton,†
-269,Smith,Mr James Clinch,56,Cherbourg,†
-270,Smith,Mr Richard William,57,Southampton,†
-271,Smith,Mr Lucian Philip,24,Cherbourg,†
-272,Smith,Mrs Mary Eloise,18,Cherbourg,S
-273,Snyder,Mr John Pillsbury,24,Southampton,S
-274,Snyder,Mrs Nelle,23,Southampton,S
-275,Spedden,Mr Frederic Oakley,45,Cherbourg,S
-276,Spedden,Mrs Margaretta Corning “Daisy”,39,Cherbourg,S
-277,Spedden,Master Robert Douglas,6,Cherbourg,S
-278,Spencer,Mr William Augustus,57,Cherbourg,†
-279,Spencer,Mrs Marie Eugenie,45,Cherbourg,S
-280,Stähelin-Maeglin,Dr Max,32,Southampton,S
-281,Stead,Mr William Thomas,62,Southampton,†
-282,Stengel,Mr Charles Emil Henry,54,Cherbourg,S
-283,Stengel,Mrs Annie May,44,Cherbourg,S
-284,Stephenson,Mrs Martha,52,Cherbourg,S
-285,Stewart,Mr Albert Ankeny,64,Cherbourg,†
-286,Stone,Mrs Martha Evelyn,62,Southampton,S
-287,Straus,Mr Isidor,67,Southampton,†
-288,Straus,Mrs Rosalie Ida,63,Southampton,†
-289,Sutton,Mr Frederick,61,Southampton,†
-290,Swift,Mrs Margaret Welles,46,Southampton,S
-291,Taussig,Mr Emil,52,Southampton,†
-292,Taussig,Mrs Tillie,39,Southampton,S
-293,Taussig,Miss Ruth,18,Southampton,S
-294,Taylor,Mr Elmer Zebley,48,Southampton,S
-295,Taylor,Mrs Juliet Cummins,49,Southampton,S
-296,Thayer,Mr John Borland,49,Cherbourg,†
-297,Thayer,Mrs Marian Longstreth,39,Cherbourg,S
-298,Thayer,Mr John Borland Jr,17,Cherbourg,S
-299,Thorne,Miss Gertrude Maybelle,38,Cherbourg,S
-300,Tucker,Mr Gilbert Milligan Jr,31,Cherbourg,S
-301,Uruchurtu,Don. Manuel Ramirez,39,Cherbourg,†
-302,Van Der Hoef,Mr Wyckoff,61,Belfast,†
-303,Walker,Mr William Anderson,48,Southampton,†
-304,Ward,Miss Annie Moore (Maid to Mrs Charlotte Cardeza),35,Cherbourg,S
-305,Warren,Mr Frank Manley,63,Cherbourg,†
-306,Warren,Mrs Anna Sophia,60,Cherbourg,S
-307,Weir,Colonel John,59,Southampton,†
-308,White,Mr Percival Wayland,54,Southampton,†
-309,White,Mr Richard Frasar,21,Southampton,†
-310,White,Mrs Ella,55,Cherbourg,S
-311,Wick,Colonel George Dennick,57,Southampton,†
-312,Wick,Mrs Mary Peebles,45,Southampton,S
-313,Wick,Miss Mary Natalie,31,Southampton,S
-314,Widener,Mr George Dunton,50,Southampton,†
-315,Widener,Mrs Eleanor,50,Southampton,S
-316,Widener,Mr Harry Elkins,27,Southampton,†
-317,Willard,Miss Constance,21,Southampton,S
-318,Williams,Mr Fletcher Fellowes Lambert,43,Southampton,†
-319,Williams,Mr Charles Duane,51,Cherbourg,†
-320,Williams,Mr Richard Norris II,21,Cherbourg,S
-321,Wilson,Miss Helen Alice (Maid to Mrs Frederic Oakley Spedden),31,Cherbourg,S
-322,Woolner,Mr Hugh,45,Southampton,S
-323,Wright,Mr George,62,Southampton,†
-324,Young,Miss Marie Grice,36,Cherbourg,S
+Surname,First Names,Age,Boarded,Survivor (S) or Victim (†)
+Allen,Miss Elisabeth Walton,29,Southampton,S
+Allison,Mr Hudson Joshua Creighton,30,Southampton,†
+Allison,Mrs Bessie Waldo,25,Southampton,†
+Allison,Miss Helen Loraine,2,Southampton,†
+Allison,Master Hudson Trevor,11m,Southampton,S
+Anderson,Mr Harry,47,Southampton,S
+Andrews,Miss Kornelia Theodosia,62,Cherbourg,S
+Andrews,Mr Thomas,39,Belfast,†
+Appleton,Mrs Charlotte,53,Southampton,S
+Artagaveytia,Mr Ramon,71,Cherbourg,†
+Astor,Colonel John Jacob,47,Cherbourg,†
+Astor,Mrs Madeleine Talmage,18,Cherbourg,S
+Aubart,Mme. Léontine Pauline “Ninette”,24,Cherbourg,S
+Barber,Miss Ellen Mary (Maid to Mrs Tyrell William Cavendish),26,Southampton,S
+Barkworth,Mr Algernon Henry,47,Southampton,S
+Bassani,Mrs Albina (Maid to Mrs William Robert Bucknell),32,Cherbourg,S
+Baumann,Mr John D.,60,Cherbourg,†
+Baxter,Mrs Hélène,50,Cherbourg,S
+Baxter,Mr Quigg Edmond,24,Cherbourg,†
+Beattie,Mr Thomson,36,Southampton,†
+Beckwith,Mr Richard Leonard,37,Southampton,S
+Beckwith,Mrs Sallie,46,Southampton,S
+Behr,Mr Karl Howell,26,Cherbourg,S
+Bessette,Miss Nellie Mayo (Maid to Mrs Ella Holmes White),39,Cherbourg,S
+Bidois,Miss Rosalie (Maid to Mrs John Jacob Astor),46,Cherbourg,S
+Bird,Miss Ellen (Maid to Mr & Mrs Isodor Straus),31,Southampton,S
+Birnbaum,Mr Jakob,24,Cherbourg,†
+Bishop,Mr Dickinson H.,25,Cherbourg,S
+Bishop,Mrs Helen,19,Cherbourg,S
+Björnström-Steffansson,Mr Mauritz Hokan,28,Southampton,S
+Blackwell,Mr Stephen Weart,45,Southampton,†
+Blank,Mr Henry,39,Cherbourg,S
+Bonnell,Miss Caroline,30,Southampton,S
+Bonnell,Miss Elizabeth,61,Southampton,S
+Borebank,Mr John James,42,Southampton,†
+Bowen,Miss Grace Scott (Maid to Mr & Mrs Arthur Ryerson),45,Cherbourg,S
+Bowerman,Miss Elsie Edith,22,Southampton,S
+Brady,Mr John Bertram,41,Southampton,†
+Brandeis,Mr Emil Franklin,48,Cherbourg,†
+Brereton,Mr George Andrew,37,Southampton,S
+Brewe,Dr Arthur Jackson,45,Cherbourg,†
+Brown,Mrs Caroline Lane,59,Southampton,S
+Brown,Mrs Margaret “Molly”,44,Cherbourg,S
+Bucknell,Mrs Emma Eliza,58,Cherbourg,S
+Burns,Miss Elizabeth Margaret (Nanny to Master Robert Douglas Spedden),41,Cherbourg,S
+Butt,Major Archibald Willingham,46,Southampton,†
+Cairns,Mr Alexander Milne (Manservant to Mr William Ernest Carter),28,Southampton,†
+Calderhead,Mr Edward Pennington,42,Southampton,S
+Candee,Mrs Helen Churchill,52,Cherbourg,S
+Cardeza,Mrs Charlotte Wardle,58,Cherbourg,S
+Cardeza,Mr Thomas Drake Martinez,36,Cherbourg,S
+Carlsson,Mr Frans Olof,33,Southampton,†
+Carraú-Esteves,Mr José Pedro,17,Southampton,†
+Carrau,Mr Francisco Mauro Severiano,27,Southampton,†
+Carter,Mr William Ernest,36,Southampton,S
+Carter,Mrs Lucile,36,Southampton,S
+Carter,Miss Lucile Polk,13,Southampton,S
+Carter,Master William Thornton II,11,Southampton,S
+Case,Mr Howard Brown,49,Southampton,†
+Cassebeer,Mrs Eleanor Genevieve,36,Cherbourg,S
+Cavendish,Mr Tyrell William,36,Southampton,†
+Cavendish,Mrs Julia Florence,25,Southampton,S
+Chaffee,Mr Herbert Fuller,46,Southampton,†
+Chaffee,Mrs Carrie Constance,47,Southampton,S
+Chambers,Mr Norman Campbell,27,Southampton,S
+Chambers,Mrs Bertha,32,Southampton,S
+Chaudanson,Miss Victorine (Maid to Mrs Emily Ryerson),36,Cherbourg,S
+Cherry,Miss Gladys,30,Southampton,S
+Chevré,Mr Paul Romaine Marie Léonce,45,Cherbourg,S
+Chibnall,Mrs Edith Martha Bowerman,48,Southampton,S
+Chisholm,Mr Roderick Robert Crispin,43,Belfast,†
+Clark,Mr Walter Miller,27,Cherbourg,†
+Clark,Mrs Virginia Estelle,26,Cherbourg,S
+Cleaver,Miss Alice Catherine (Nanny to Master Hudson Trevor Allison),22,Southampton,S
+Clifford,Mr George Quincy,40,Southampton,†
+Colley,Mr Edward Pomeroy,37,Southampton,†
+Compton,Mrs Mary Eliza,64,Cherbourg,S
+Compton,Miss Sara Rebecca,39,Cherbourg,S
+Compton,Mr Alexander Taylor Jr,37,Cherbourg,†
+Cornell,Mrs Malvina Helen,55,Southampton,S
+Crafton,Mr John Bertram,59,Southampton,†
+Crosby,Captain Edward Gifford,70,Southampton,†
+Crosby,Mrs Catherine Elizabeth,64,Southampton,S
+Crosby,Miss Harriette Rebecca,39,Southampton,S
+Cumings,Mr John Bradley,39,Cherbourg,†
+Cumings,Mrs Florence Briggs,35,Cherbourg,S
+Daly,Mr Peter Dennis,51,Southampton,†
+Daniel,Mr Robert Williams,27,Southampton,S
+Daniels,Miss Sarah Rebecca (Maid to Mr & Mrs Allison),33,Southampton,S
+Davidson,Mr Thornton,31,Cherbourg,†
+Davidson,Mrs Orian,27,Cherbourg,S
+Dick,Mr Albert Adrian,31,Southampton,S
+Dick,Mrs Vera,17,Southampton,S
+Dodge,Dr Washington,52,Southampton,S
+Dodge,Mrs Ruth,34,Southampton,S
+Dodge,Master Washington,4,Southampton,S
+Douglas,Mr Walter Donald,50,Cherbourg,†
+Douglas,Mrs Mahala,48,Cherbourg,S
+Douglas,Mrs Mary Hélène,27,Cherbourg,S
+Duff Gordon,Sir Cosmo Edmund,49,Cherbourg,S
+Duff Gordon,"Lucy Christiana, Lady",48,Cherbourg,S
+Dulles,Mr William Crothers,39,Cherbourg,†
+Earnshaw,Mrs Olive,23,Cherbourg,S
+Endres,Miss Caroline Louise (Nurse to Mrs Madeleine Astor),39,Cherbourg,S
+Eustis,Miss Elizabeth Mussey,54,Cherbourg,S
+Evans,Miss Edith Corse,36,Cherbourg,†
+Farthing,Mr John (Manservant to Mr & Mrs Straus),57,Southampton,†
+Flegenheim,Mrs Antoinette,48,Cherbourg,S
+Fleming,Miss Margaret (Maid to Mr & Mrs Thayer),42,Cherbourg,S
+Flynn,Mr John Irwin,36,Southampton,S
+Foreman,Mr Benjamin Laventall,30,Southampton,†
+Fortune,Mr Mark,64,Southampton,†
+Fortune,Mrs Mary,60,Southampton,S
+Fortune,Miss Ethel Flora,28,Southampton,S
+Fortune,Miss Alice Elizabeth,24,Southampton,S
+Fortune,Miss Mabel Helen,23,Southampton,S
+Fortune,Mr Charles Alexander,19,Southampton,†
+Francatelli,Miss Laura Mabel (Secretary to Lady Duff-Gordon),31,Cherbourg,S
+Franklin,Mr Thomas Parnham,37,Southampton,†
+Frauenthal,Mr Isaac Gerald,43,Cherbourg,S
+Frauenthal,Dr Henry William,49,Southampton,S
+Frauenthal,Mrs Clara,42,Southampton,S
+Frölicher,Miss Hedwig Margaritha,22,Cherbourg,S
+Frölicher-Stehli,Mr Maximilian Josef,60,Cherbourg,S
+Frölicher-Stehli,Mrs Margaretha Emerentia,48,Cherbourg,S
+Fry,Mr Richard (Valet to Mr Joseph Bruce Ismay),39,Southampton,†
+Futrelle,Mr Jacques Heath,37,Southampton,†
+Futrelle,Mrs Lily May,35,Southampton,S
+Gee,Mr Arthur H.,47,Southampton,†
+Gibson,Mrs Pauline Caroline,44,Cherbourg,S
+Gibson,Miss Dorothy Winifred,22,Cherbourg,S
+Gieger,Miss Amalie (Maid to Mrs George Dunton Widener),35,Southampton,S
+Giglio,Mr Victor Gaitan Andrea (Valet to Mr Benjamin Guggenheim),23,Cherbourg,†
+Goldenberg,Mr Samuel L.,47,Cherbourg,S
+Goldenberg,Mrs Nella,40,Cherbourg,S
+Goldschmidt,Mr George B.,71,Cherbourg,†
+Gracie,Colonel Archibald,53,Southampton,S
+Graham,Mr George Edward,38,Southampton,†
+Graham,Mrs Edith,59,Southampton,S
+Graham,Miss Margaret Edith,19,Southampton,S
+Greenfield,Mrs Blanche,45,Cherbourg,S
+Greenfield,Mr William Bertram,23,Cherbourg,S
+Guggenheim,Mr Benjamin,46,Cherbourg,†
+Harder,Mr George Achilles,25,Cherbourg,S
+Harder,Mrs Dorothy,21,Cherbourg,S
+Harper,Mr Henry Sleeper,48,Cherbourg,S
+Harper,Mrs Myra Raymond,49,Cherbourg,S
+Harrington,Mr Charles Henry (Manservant to Mr Clarence Bloomfield Moore),37,Southampton,†
+Harris,Mr Henry Birkhardt,45,Southampton,†
+Harris,Mrs Irene,35,Southampton,S
+Harrison,Mr William Henry (Private secretary to Mr Joseph Bruce Ismay),45,Southampton,†
+Hassab,Mr Hammad (Interpreter to Mr Henry Sleeper Harper),27,Cherbourg,S
+Hawksford,Mr Walter James,45,Southampton,S
+Hays,Mr Charles Melville,55,Southampton,†
+Hays,Mrs Clara Jennings,52,Southampton,S
+Hays,Miss Margaret Bechstein,24,Cherbourg,S
+Head,Mr Christopher,42,Southampton,†
+Hilliard,Mr Herbert Henry,44,Southampton,†
+Hipkins,Mr William Edward,55,Southampton,†
+Hippach,Mrs Ida Sophia,44,Cherbourg,S
+Hippach,Miss Jean Gertrude,17,Cherbourg,S
+Hogeboom,Mrs Anna Louisa,51,Cherbourg,S
+Holverson,Mr Alexander Oskar,42,Southampton,†
+Holverson,Mrs Mary Aline,35,Southampton,S
+Homer,Mr Harry,40,Southampton,S
+Hoyt,Mr Frederick Maxfield,38,Southampton,S
+Hoyt,Mrs Jane Anne,31,Southampton,S
+Hoyt,Mr William Fisher,42,Cherbourg,S
+Icard,Miss Rose Amélie (Maid to Mrs George Nelson Stone),39,Southampton,S
+Isham,Miss Ann Elizabeth,50,Cherbourg,†
+Ismay,Mr Joseph Bruce,49,Southampton,S
+Jones,Mr Charles Cresson,46,Southampton,†
+Julian,Mr Henry Forbes,50,Southampton,†
+Keeping,Mr Edwin Herbert (Manservant to Mr & Mrs Widener),33,Southampton,†
+Kent,Mr Edward Austin,58,Cherbourg,†
+Kenyon,Mr Frederick Roland,41,Southampton,†
+Kenyon,Mrs Marion Estelle,40,Southampton,S
+Kimball,Mr Edwin Nelson Jr.,42,Southampton,S
+Kimball,Mrs Susan Gertrude,45,Southampton,S
+Klaber,Mr Herman,41,Southampton,†
+Kreuchen,Miss Emilie (Maid to Mrs Edward Scott Robert),29,Southampton,S
+Leader,Dr Alice May,49,Southampton,S
+Leroy,Miss Berthe (Maid to Mrs Walter Donald Douglas),27,Cherbourg,S
+Lesueur,Mr Gustave J. (Manservant to Mr Thomas Cardeza),35,Cherbourg,S
+Lewy,Mr Ervin G.,30,Cherbourg,†
+Lindeberg-Lind,Mr Erik Gustaf,42,Southampton,†
+Lindström,Mrs Sigrid,55,Cherbourg,S
+Lines,Mrs Elizabeth Lindsey,50,Cherbourg,S
+Lines,Miss Mary Conover,16,Cherbourg,S
+Long,Mr Milton Clyde,29,Southampton,†
+Longley,Miss Gretchen Fiske,21,Cherbourg,S
+Loring,Mr Joseph Holland,30,Southampton,†
+Lurette,Miss Eugénie Elise (Maid to Mr & Mrs Spencer),59,Cherbourg,S
+Madill,Miss Georgette Alexandra,16,Southampton,S
+Maguire,Mr John Edward,30,Southampton,†
+Maioni,Miss Roberta Elizabeth Mary (Maid to the Countess of Rothes),19,Southampton,S
+Maréchal,Mr Pierre,29,Cherbourg,S
+Marvin,Mr Daniel Warner,18,Southampton,†
+Marvin,Mrs Mary Graham Carmichael,18,Southampton,S
+Mayné,Mlle Berthe Antonine,24,Cherbourg,S
+McCaffry,Mr Thomas Francis,46,Southampton,†
+McCarthy,Mr Timothy J.,54,Southampton,†
+McGough,Mr James Robert,35,Southampton,S
+Meyer,Mr Edgar Joseph,28,Cherbourg,†
+Meyer,Mrs Leila,25,Cherbourg,S
+Millet,Mr Francis Davis,65,Cherbourg,†
+Minahan,Dr William Edward,44,Queenstown,†
+Minahan,Mrs Lillian E.,37,Queenstown,S
+Minahan,Miss Daisy E.,33,Queenstown,S
+Mock,Mr Philipp Edmund,30,Cherbourg,S
+Molson,Mr Harry Markland,55,Southampton,†
+Moore,Mr Clarence Bloomfield,47,Southampton,†
+Natsch,Mr Charles,36,Cherbourg,†
+Newell,Mr Arthur Webster,58,Cherbourg,†
+Newell,Miss Marjorie Anne,23,Cherbourg,S
+Newell,Miss Madeleine,31,Cherbourg,S
+Newsom,Miss Helen Monypeny,19,Southampton,S
+Nicholson,Mr Arthur Ernest,59,Southampton,†
+Nourney,Mr Alfred,20,Cherbourg,S
+Oliva Y Ocana,Doña Fermina (Maid to Mrs Victor de Satode Peñasco y Castellana),39,Cherbourg,S
+Omont,Mr Alfred Fernand,29,Cherbourg,S
+Ostby,Mr Engelhart Cornelius,64,Southampton,†
+Østby,Miss Helen Ragnhild,22,Southampton,S
+Oviés Y Rodríguez,Mr Servando José Florentino,36,Cherbourg,†
+Parr,Mr William Henry Marsh,29,Belfast,†
+Partner,Mr Austin,40,Southampton,†
+Payne,Mr Vivian Ponsonby (Private secretary to Mr Charles Melville Hays),22,Southampton,†
+Pears,Mr Thomas Clinton,29,Southampton,†
+Pears,Mrs Edith,22,Southampton,S
+Peñasco Y Castellana,Mr Victor,24,Cherbourg,†
+Peñasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,22,Cherbourg,S
+Perreault,Miss Mary Anne (Maid to Mrs Charles Melville Hays),33,Southampton,S
+Peuchen,Major Arthur Godfrey,52,Southampton,S
+Porter,Mr Walter Chamberlain,46,Southampton,†
+Potter,Mrs Lily Alexenia,56,Cherbourg,S
+Reuchlin,Mr Jonkheer Johan George,38,Cherbourg,†
+Rheims,Mr George Alexander Lucien,33,Cherbourg,S
+Righini,Mr Sante (Manservant to Mrs John Stewart White),22,Cherbourg,†
+Robert,Mrs Elisabeth Walton,43,Southampton,S
+Robins,Mr Victor (Valet to Mr John Jacob Astor),42,Cherbourg,†
+Roebling,Mr Washington Augustus II,31,Southampton,†
+Romaine,Mr Charles Hallace,45,Southampton,S
+Rood,Mr Hugh Roscoe,39,Southampton,†
+Rosenbaum,Miss Edith Louise,33,Cherbourg,S
+Rosenshine,Mr George,46,Cherbourg,†
+Ross,Mr John Hugo,36,Southampton,†
+Rothes,"Lucy Noël Martha, Countess of",33,Southampton,S
+Rothschild,Mr Martin,46,Cherbourg,†
+Rothschild,Mrs Elizabeth Jane Anne,54,Cherbourg,S
+Rowe,Mr Alfred G.,59,Southampton,†
+Ryerson,Mr Arthur Larned,61,Cherbourg,†
+Ryerson,Mrs Emily Maria,48,Cherbourg,S
+Ryerson,Miss Emily Borie,18,Cherbourg,S
+Ryerson,Miss Susan Parker “Suzette”,21,Cherbourg,S
+Ryerson,Master John Borie,13,Cherbourg,S
+Saalfeld,Mr Adolphe,47,Southampton,S
+Salomon,Mr Abraham Lincoln,43,Cherbourg,S
+Sägesser,Mlle Emma (Maid to Mme. Léontine Pauline Aubart),24,Cherbourg,S
+Schabert,Mrs Emma,35,Cherbourg,S
+Serreplan,Miss Auguste (Maid to Mrs William Carter),30,Southampton,S
+Seward,Mr Frederic Kimber,34,Southampton,S
+Shutes,Miss Elizabeth Weed (Governess to Miss Margaret Edith Graham),40,Southampton,S
+Silverthorne,Mr Spencer Victor,35,Southampton,S
+Silvey,Mr William Baird,51,Cherbourg,†
+Silvey,Mrs Alice Gray,39,Cherbourg,S
+Simonius-Blumer,Mr Colonel (Oberst) Alfons,56,Southampton,S
+Sloper,Mr William Thompson,28,Southampton,S
+Smart,Mr John Montgomery,56,Southampton,†
+Smith,Mr James Clinch,56,Cherbourg,†
+Smith,Mr Richard William,57,Southampton,†
+Smith,Mr Lucian Philip,24,Cherbourg,†
+Smith,Mrs Mary Eloise,18,Cherbourg,S
+Snyder,Mr John Pillsbury,24,Southampton,S
+Snyder,Mrs Nelle,23,Southampton,S
+Spedden,Mr Frederic Oakley,45,Cherbourg,S
+Spedden,Mrs Margaretta Corning “Daisy”,39,Cherbourg,S
+Spedden,Master Robert Douglas,6,Cherbourg,S
+Spencer,Mr William Augustus,57,Cherbourg,†
+Spencer,Mrs Marie Eugenie,45,Cherbourg,S
+Stähelin-Maeglin,Dr Max,32,Southampton,S
+Stead,Mr William Thomas,62,Southampton,†
+Stengel,Mr Charles Emil Henry,54,Cherbourg,S
+Stengel,Mrs Annie May,44,Cherbourg,S
+Stephenson,Mrs Martha,52,Cherbourg,S
+Stewart,Mr Albert Ankeny,64,Cherbourg,†
+Stone,Mrs Martha Evelyn,62,Southampton,S
+Straus,Mr Isidor,67,Southampton,†
+Straus,Mrs Rosalie Ida,63,Southampton,†
+Sutton,Mr Frederick,61,Southampton,†
+Swift,Mrs Margaret Welles,46,Southampton,S
+Taussig,Mr Emil,52,Southampton,†
+Taussig,Mrs Tillie,39,Southampton,S
+Taussig,Miss Ruth,18,Southampton,S
+Taylor,Mr Elmer Zebley,48,Southampton,S
+Taylor,Mrs Juliet Cummins,49,Southampton,S
+Thayer,Mr John Borland,49,Cherbourg,†
+Thayer,Mrs Marian Longstreth,39,Cherbourg,S
+Thayer,Mr John Borland Jr,17,Cherbourg,S
+Thorne,Miss Gertrude Maybelle,38,Cherbourg,S
+Tucker,Mr Gilbert Milligan Jr,31,Cherbourg,S
+Uruchurtu,Don. Manuel Ramirez,39,Cherbourg,†
+Van Der Hoef,Mr Wyckoff,61,Belfast,†
+Walker,Mr William Anderson,48,Southampton,†
+Ward,Miss Annie Moore (Maid to Mrs Charlotte Cardeza),35,Cherbourg,S
+Warren,Mr Frank Manley,63,Cherbourg,†
+Warren,Mrs Anna Sophia,60,Cherbourg,S
+Weir,Colonel John,59,Southampton,†
+White,Mr Percival Wayland,54,Southampton,†
+White,Mr Richard Frasar,21,Southampton,†
+White,Mrs Ella,55,Cherbourg,S
+Wick,Colonel George Dennick,57,Southampton,†
+Wick,Mrs Mary Peebles,45,Southampton,S
+Wick,Miss Mary Natalie,31,Southampton,S
+Widener,Mr George Dunton,50,Southampton,†
+Widener,Mrs Eleanor,50,Southampton,S
+Widener,Mr Harry Elkins,27,Southampton,†
+Willard,Miss Constance,21,Southampton,S
+Williams,Mr Fletcher Fellowes Lambert,43,Southampton,†
+Williams,Mr Charles Duane,51,Cherbourg,†
+Williams,Mr Richard Norris II,21,Cherbourg,S
+Wilson,Miss Helen Alice (Maid to Mrs Frederic Oakley Spedden),31,Cherbourg,S
+Woolner,Mr Hugh,45,Southampton,S
+Wright,Mr George,62,Southampton,†
+Young,Miss Marie Grice,36,Cherbourg,S
