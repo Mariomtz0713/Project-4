@@ -1,8 +1,8 @@
 # Project-4
 Mario Martinez | Savannah Serrano | Diana Ibarra | Joe Montecinos
-- In this challenge our team of 4 developed a machine learning model to predict which passengers survived the Titanic shipwreck.
+- In this project our team of 4 developed a machine learning model to predict which passengers survived the Titanic shipwreck.
 
-## Skills used to complete challenge
+## Skills Used
 - Python
 - Sklearn
 - Tensorflow
