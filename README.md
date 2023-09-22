@@ -10,9 +10,8 @@ Mario Martinez | Savannah Serrano | Diana Ibarra | Joe Montecinos
 - Neural Networks
 - MongoDB
 - Tableau
-- JSON
 
-## Challenge Parameters
+## Project Parameters
 - Data Model Implementation
     - A Python script initializes, trains, and evaluates a model.
     - The data is cleaned, normalized, and standardized prior to modeling.
